@@ -1,0 +1,3 @@
+{{< box >}}
+[_The Cicada and the Bird_](https://amzn.to/3tYB8x3), a new book by Christopher Tricker, presents a new reading of the Daoist classic, the *Chuang Tzu.* Christopher Tricker attempts to excavate Chuang Tzu’s lost meaning, translates it, and provides a running commentary.
+{{< /box >}}

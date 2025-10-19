@@ -1,0 +1,777 @@
+---
+author: 'Andreas Matthias'
+displayauthor: 'Andreas Matthias'
+citeauthor: "Matthias, A."
+interviewee: 'Catherine Greene'
+date: 2023-10-28T14:34:16+08:00
+title: "Catherine Greene on Her Book “The Red Hairband”"
+subtitle: Philosopher interviews
+summary: "Catherine Greene is a philosopher and writer. In this interview, we discuss her new book “The Read Hairband”"
+type: post
+url: /interview-catherine-greene-red-hairband
+substack:
+categories:
+- Guest post
+- Interviews
+- xinterviews
+draft: false
+---
+
+{{< box >}}
+Catherine Greene is a Research Associate at the Centre for Philosophy of Natural and Social Science at the London School of Economics. Her research interests are the philosophy of finance and social science. More information is available at [www.catherinegreene.co.uk](https://www.catherinegreene.co.uk). In this interview, we discuss her latest book.
+
+Catherine Greene (2023). *The Red Hairband.* Guernica World Editions. 364 pages. Get it [here on Amazon US](https://amzn.to/3s5jEBP) (affiliate link) or [here if you are in the UK](https://www.amazon.co.uk/Red-Hairband-64-World-Prose/dp/1771838167). Paperback: 16.16 USD, Kindle: 9.49 USD.
+{{< /box >}}
+
+{{< imgx image="cover2.jpg" caption="" >}} 
+
+{{< intq >}}
+Welcome! Today we have Catherine Greene, author of *The Red Hairband,* which is a post-apocalyptic science fiction novel.
+
+It has many philosophical topics in it, and we have Professor Green here,
+
+So stay with us for this brilliant interview.
+
+so welcome. Kathryn Green, You are
+
+the author of the book we're going to talk about today. I saw it has two different titles right in some Amazon listings is appears differently than others.
+
+Can you say something about this? So what
+
+is the official title of the book?
+{{< /intq >}}
+
+The real title is the read happened with the publisher. We were going back
+
+forwards on names for a little while, so on some sites. The other option was uploaded a few months ago and unfortunately it takes a long time to to filter through to get it.
+
+Will update is so the actor title is the read happened
+
+okay there it happened right and it's a little bit perhaps first about your background. You are a philosopher, right? Or are you not a philosopher from training? What how is exactly your background?
+
+So I studied philosophy at university back in the mid 1990s and then had a career in finance, and then I went back to university to do a PhD in philosophy in 2009 ten.
+
+And so I sort of our philosophy, I did a bit of teaching and I still associated with the London School of Economics. So we were buying some funding to look at some maths and philosophy or finance issues. But I also have a good paying job in the not for profit. So I'm a little bit of a philosopher, I guess you'd say, but it's not my my full bill paying job.
+
+Right.
+
+And something I'm always interested in and also I guess others I've heard multiple people ask this question how do you get to become a philosopher? So this is always a no, it's not about the book now, but it's an interesting question. You know, what is this moment where somebody decides, I want to be a philosopher? What was it for?
+
+For me, it was something rather pragmatic. I originally signed up to study history at the university, and I did it at the end of my first year of my philosophy exams and my history exams, and also the philosophy department at LSC allowed you to take more outside options. So I would just have to do history. I would have had to do if I'd stayed in the history department.
+
+So that's really why I made the transition. And actually I do like the philosophy is so applicable to different fields of study. So you can be a philosopher of lots of different things and I think that appeals to me. It's sort of the way I see it. It's a way of thinking, a way of reasoning and studying how you argue, how you look at other people's arguments.
+
+So it's in a sense domain independent, and that sort of appeals to me. So yeah,
+
+that's how I got into it.
+
+And how does this now relate to your writing,
+
+to your literary writing? So is it that do you think that that your philosophy has something to do with your decision to write? There are these questions, you know, questions the questions in your book.
+
+So we try to speak about the book in the way that we don't give away too much, right? Because we don't want people to not read the book because they they heard us here. So we
+
+we can reference it, but, you know, in ways that are very generous. So, for example, in the book, there are multiple, you know, philosophical questions discussed, among other things.
+
+And do you think that being a philosopher informed your treatment of these questions? What made you want to write the book in the first place, or is it something that you would probably have done even if you were not a philosopher?
+
+I think I would have done it, even if I wasn't a philosopher. So I'm still really interested in history, and although it's science fiction and such in the future, I felt to some extent that I was writing history.
+
+So I think a lot of the facets of the totalitarian regime I didn't really make up. They've all happened in the past where philosophy has been really important is in doing my Ph.D. I became a much better writer, so a huge debt of gratitude to my supervisor for assaulting my writing out. So I think my style before and after the PHC changed quite a lot for the better, so it was a big influence in that way.
+
+Also, I think that philosophy and fiction are very similar in that I see it just as a different way to make an argument. So I could have said the same thing that an essay, but it probably would have been quite a boring and rambling essay. Whereas I think if you engage people emotionally, sometimes that's a better way to make an argument,
+
+yeah. So you mentioned already that your book is a science fiction, right?
+
+It's I don't know if it's really science fiction, right? It's a post-apocalyptic novel writer, I would say. Probably. And
+
+about science fiction or this kind of future
+
+speculative fiction. What is your idea about this? There there is a spectrum, right, of of kinds of speculative fiction. There are books that are very technically precise, and there are where you can almost imagine of flying the spaceship.
+
+And then there are other books that go more into a fantasy direction where things like magic happen.
+
+In your book, there's no magic, right? But still, it feels
+
+like it is not about technology.
+
+and it was sometimes also surprised about the technology. For example,
+
+these people live in some at least in some parts of the book, you know, in very impoverished technologically situations like you imagine a post-apocalyptic society, Western civilization has collapsed.
+
+But then at the same time they have tablets, right? And the tablets work. And so I was wondering, you know, where do the replacement parts of the tablets come from if Samsung is not, you know, operating,
+
+Where does what do the solar panels come from? You know, who is extracting all of these metals that are needed for this.
+
+So it seems like your your aim was not really to be technically precise in these descriptions. Right. So how do you relate to this thing with it? Yes.
+
+you're absolutely right. And anyone who knows how a wind farm works, which probably, you know, definitely there's not a lot north of me about how to write, you know, without it when phones.
+
+But I see it more like philosophical thought experiments. In a sense. The point is not the technology, but to think about what people are doing and what motivates them. And so you sort of assume a situation and see how people's characters and then motivations play out. Yes, it's absolutely not about technology. I don't generally like to read science fiction that is tech heavy.
+
+I sort of skim over any dense descriptions of how a gun is firing or how something is. Yeah, how some things put together. One house, fly the spaceship. That's just not my it's not what I enjoy reading. So yeah, I see it more as a thought experiment. And in my mind, to answer your question, I just assumed there was so much lying around.
+
+It's kind of scavenged that there wouldn't be any need for any new mining. But of course the the technological issues of the time travel are of course, highly improbable. So I just sort of assumed a number of these things and progressed from the
+
+time travel. It's not really I mean, at least it's I said before, you know, before we started that I have not read the last few pages.
+
+I arrive very close to the end, but I didn't quite make it to the end because I didn't have time, because we had scheduled this. I would read them afterwards, but
+
+so I didn't see, you know, time traveling in a, you know, classic way. We have it in science fiction.
+
+But there was this idea of somebodies consciousness being uploaded in true what we today would perhaps a, you know, a computer or some kind of
+
+It's unclear, right?
+
+It is it is not really a technological device at this, perhaps more like some kind of other world in which this consciousness resides. Or is it a machine? We don't know exactly right. It is. It's open. Is this a transhumanist thing? Did you want to actually talk about transhumanism that you want to talk about the uploading of consciousness?
+
+Was this one of the of the themes that interested you there, or was it just necessary for the plot?
+
+to be blunt, it was just necessary for the plot. And so I intentionally wanted to leave it open because I find it slightly irritating sometimes in science fiction films in particular, where there is this new technology and it works perfectly and people come with around to different dimensions and different paths and things.
+
+And I wanted the the guys who primarily do this, the historians, to be a little bit incompetent and not really sure about what they're doing. And for the to be a little bit of doubt in the readers minds about whether they're actually succeeding and what they think they're doing.
+
+So I, I found that interesting. I want to introduce some sort of themes and technology, jeez.
+
+And make it clear that they were working perfectly, because I think that's unrealistic.
+
+We don't always use the technology we have perfectly. I still mess up with my laptop, so I think that some society in the future is going to succeed in all their aims perfectly. So I left an intentionally vague but essentially the the uploading of consciousness and wealth was to a great extent just a device to get characters in the right place.
+
+But
+
+it's also I mean, the whole novel has a very strong, I thought, religious motives in there, right? So it has. Yeah,
+
+it doesn't sound
+
+preachy or it doesn't sound religious, but it is very much influenced by discussions that we normally associate with religion. So, for example, life after death or this kind of limbo in which this character exists, right?
+
+This is a kind of almost a Catholic, you know, intermediate state between being alive and being, you know, finally debt.
+
+And then there are many other religious
+
+things. There is one character who
+
+involuntary becomes a hero, right? Or and it looks almost like a saint, somebody who becomes a saint without actually being one. So it is an accident, right.
+
+This accidental sainthood. And so I was wondering, why are there so many religious topics in there? Are you particularly interested in religion? Are you yourself a religious person? Is it something that you wanted to discuss in this book explicitly?
+
+Yes. So I'm an atheist, but I find the notion of having faith in ideas interesting and quite dangerous. So that was the main thing that I wanted to explore that when we are really sure of our belief system,
+
+it often allows people to view people who opposed their ideas as expendable
+
+and to not treat them as fully realized human beings.
+
+So I think when we look at history that it's not only religion that does that, but also political ideologies as well. So in the book, I wanted to draw those two strands together and the overarching aim, therefore, is to suggest that
+
+we should never have total faith in our ideas or our visions in the future, because as in a number of places in the book, it allows people or gives justification for them behaving absolutely terribly towards other human beings and that that's really the overriding intent of the book.
+
+And as you mentioned,
+
+I just want to question sometimes the the ease with which we we hold up people's heroes or some wonderful things when actually the character who does become a saint is not someone who should be or a prophet is not someone who you should be
+
+admired in any way whatsoever. Although I hope that she's a fully realized, understandable, flawed human being but should be held up as the character that she is,
+
+another thing I noticed in the novel was that although you say that we should not have these strong convictions, that that make us
+
+think that our ideas are perhaps more important than human beings or welfare, or that we might be mistaken. Perhaps we overlook that. But there's also one thing where I felt that in the book,
+
+all of the societies that you describe because you describe different societies over time,
+
+they all tend towards totalitarianism.
+
+So it seems somehow to be inevitable that things go bad. Is this something that you believe? I mean, the first society you describe is a kind of Nazi
+
+world in which people are indoctrinated and
+
+the children are already, you know, raised to to live in this
+
+mental world of the society and and to get these beliefs as strong beliefs,
+
+but then also the good society
+
+where the people initially are happy over time tends to also become totalitarian.
+
+Right. We we have this
+
+society where
+
+they who live by the sea and in they die in the book when
+
+your priest or monk goes there to to meet them, he notices that actually they are not as free and happy as they perhaps initially look in the book. Right. So their society has also undergone a transformation and they start resembling the society they were going away from.
+
+So do you believe that we can actually have an ideal society? Can we strive to make one, or are we doomed to to be stuck in these bad societies?
+
+I don't think that it's interesting you say that, because I'm slightly less pessimistic about people who live by the sea. I thought that, you know, they've been through a very hard time and they were doing their best.
+
+I didn't, in my mind, think of them as a turning totalitarian,
+
+but I don't think that's the choice. I think we don't always tend towards totalitarianism.
+
+no, I don't think that the proportion of history that was in my mind really was that sometimes we have revolutions that seem entirely needed and justified. For example, if you think about France or Russia, they were dealing with very repressive societies.
+
+The French Revolution, Russian Revolution in some senses were completely justified. But then how that momentum
+
+also leads those new regimes to essentially adopt many of the characteristics of the regime they're overthrowing. So that was what was in my mind. But that doesn't mean that the ISM was destined to happen.
+
+I think part of the reason why it sometimes does happen and I'm a historian is that the strength of the conviction of people engaging in those revolutions, that they are definitely right, that their vision of the future is correct, and that therefore anyone who stands in their way can legitimately being gotten rid of in one sense or another.
+
+So although that's what interested me, I definitely don't think it's inevitable.
+
+this also seems to be the case for the people by the sea, right? I mean, they also think that their way of living is their own the right way, and
+
+whoever stands in their way has to be eliminated.
+
+Right. Isn't it. Yeah.
+
+Yes, that's true. That's true.
+
+Yes. But at least in the beginning they are much more liberal.
+
+And the society that surrounds them,
+
+which is not necessarily saying a lot. But yeah, also I think that if people are all living in such strange and difficult situations, I don't think we generally behave best. And it's it's difficult to
+
+stay entirely open minded when you when you genuinely think that your life and your whole way of life is under threat.
+
+I think that does push people towards some some level of extremism. But fortunately, most of us are not operating under those very constrained circumstances. Most of the time.
+
+Another place where the books seem to be very pessimistic is about the
+
+effectiveness of PSI
+
+psychiatry. Right? I thought that there was a quite a bit of criticism of psychiatric methods in there because you have a character who is in need of help.
+
+We don't know. Right. But it looks for a do I like it? The character needs some psychiatric help.
+
+It is a little reminiscent, actually, of what we have seen in Terminator eight where the the code I don't know if you have seen Terminator at the second the thing or is were a long time
+
+ago. Yeah. With Sarah Connor is in the rise of this
+
+psychiatric institution and then she has to escape because nobody believes that she has seen the Terminator from the future and she's thought to be crazy.
+
+And so it's something similar we have in this book where the character is. It's not clear if the character is crazy or not, but
+
+she is suffering clearly. And and then she goes into a kind of treatment. And this treatment is so spectacularly ineffective. Right. And unhelpful. And she instead of being helped, she she had, you know, this treatment even more.
+
+And there is another case also where somebody is troubled and goes to this society by the sea. And then there's Mary, who attempts to do the same thing she attempts to
+
+do to a kind of psychotic ecological approach to this troubled person. But this also fails. So we don't have actually examples in this book of of interventions like this that are successful and beneficial.
+
+Is this something you wanted to show or say?
+
+So that's an interesting
+
+connection that you made. I hadn't actually equated those two situations, but you're right, they are similar. So that was unintentional. I have to admit that because I hadn't thought of them in the same way.
+
+But in the case of Laura, the woman who has just had a child, that does express a certain frustration that I have in general.
+
+That's not to say that there aren't lots of very good psychiatrist and lots of very good therapists who help people and do very good work. But to take a step back, one of my friends said to me, if men had babies, there would be a whole strand of surrealist literature dealing with what happens to your father. Child I'm not sure the statement makes sense, but I wanted to explore that in a slightly different way.
+
+So my frustration partly is that a lot of how people feel after they've had a child is put down to hormones and oh, it's all natural, you know, you get over it is fine, which I find somewhat unhelpful sometimes. It genuinely is the situation you're in, but it's the problem rather than some kind of chemical imbalance or something that needs to be treated as such.
+
+But I wanted to explore that in a
+
+more general way. So with a yeah, a child that is genuinely speaking for her baby, that's generally speaking to his mother rather than I didn't want to turn it into sort of a miserable section. I someone being depressed and it will be very sad. I wanted to try and make it interesting and perhaps even a little bit funny.
+
+But yes, I do have some skepticism of the way that people are treated, particularly after having had children
+
+and putting your
+
+children. Is it based on have them? Yes, we also have to. So, I mean, I didn't have them physically, but I had the you know, I had the accompanying experience. So I was actually I had an impression that sometimes the opposite perhaps is also true from what you say, that
+
+sometimes we over medicalized this thing, right?
+
+This pregnancy and what comes after with
+
+sometimes you
+
+medicine is very strongly involved, you know, hospitals and checkups and technology in this process of having a child. And then afterwards, also all these umbilical cord, you know, frozen umbilical cords, the way your your future child will be able to to heal its cancer, you know, because it has this bit of tissue.
+
+And this is a business, right, that makes a lot of money for a lot of people. And so I was wondering, do we not perhaps tend to forget a little that this is actually a natural process and this is something that mammals are supposed to do naturally and without, you know, any medical intervention. And it has been going on for millions of years and it went well most of the time.
+
+Are we not over medicalizing this? What do you think?
+
+Yeah, I think I think sometimes we are. I think it's also, however easy to think back and say, well, it went well most of the time, but yeah, I mean, it did. But also it was a major cause of death for women and it was incredibly difficult to survive beyond age five.
+
+So clearly some level of medical intervention is a very positive. But yes, I agree with you that sometimes you can go too far. It's long time since I have my son's 13, so but yes, so originally I wanted to take a sort of all natural way and things, but horribly wrong. We got an ambulance, so I was very happy at that moment for all the medical intervention that was available to me at the time.
+
+But yes, I agree there wasn't a necessity to go in the first moment thinking that medical intervention is necessary. And I think that that was the quite a few arguments that we the incidence of caesareans maybe too high sometimes and we forget the risks that medical interventions can also bring about. So it's not a it's not a riskless intervention or is.
+
+So yeah, I take your point. But personally I was incredibly grateful for a medical intervention, you know,
+
+the different kinds of intervention. Obviously there are some that are yeah,
+
+clearly beneficial like, I don't know,
+
+painkillers or something. And then they are these mostly empty promises of whatever will happen with your umbilical cord if you freeze it, you know, which seems to be more a moneymaking scheme rather than something.
+
+Yeah. Which actually works. Yeah. Okay. I do agree.
+
+I do agree about the medicalization of the mental aspects of it as well. So that I think a lot of the emotions that people go through afterwards, although not always positive, are to be expected and then entirely reasonable given the circumstance that you've just been through. So to always sort of try and medical fellow treat it with drugs or whatever, I think is definitely open to question.
+
+Yeah, it
+
+seems that sometimes perhaps in older societies you would have more social support, right? For people in these situations there would be a group of mothers that would be some kind of exchange. There would be perhaps that wider family that takes care of the children to take the load off the mothers right in the first years and in our societies, this happens less and less, right?
+
+We have less and less social support. And then we
+
+perhaps replace this social support by
+
+parents because it's easier.
+
+So about now social influence. This is also actually a topic in the book, right? So we are responsible for our future.
+
+The future is not going well.
+
+I think we agree are real. And your fictional one also not and now we have the responsibility to do something. And you are arguing in the book that
+
+small steps can achieve meaningful change. So we don't need to necessarily wait for Bill Gates or Steve Jobs or, you know, the big the big people to to change the world.
+
+But there is sometimes small changes can can be
+
+also
+
+effective. And so the question is, does this also apply to you as a philosopher or as a writer? Do you think that you have this responsibility to change this by writing this book? Is this one of these steps that that could perhaps help avoid this future that you describe?
+
+Yes. Well, my thought around that theme was more the I've reached an age where I realize I am not going to do a big thing. I know. Okay. It's some massive, highly unlikely this, but to leave some massive mark on the world. So I should from that perspective, really, I think a lot of people will have wild and optimistic and enthusiastic dreams in their twenties and maybe their thirties.
+
+And then once you reach your forties, you're like, actually this is still happening. I have to make the changes that are within my control and be happy that I'm actually achieving something, whether that is in actual fact true, I don't know. But that theme in the book is really just reflective of my
+
+personal journey, I guess
+
+in sort of dropping the wild ambitions of my twenties.
+
+I don't exactly remember what I was hoping for, but I think you've become a little bit more realistic as you get older.
+
+So in that sense, I find that idea quite comforting, that you can make small changes and have a difference and of course if everyone makes the same thing changes, it builds up into something much more significant.
+
+But that's really the perspective that I was coming from.
+
+I think we were
+
+also we are also in a time where we were kind of unlucky to live in this period because we had a very good world in our youth thrived. It was still good, it was still promising, it was still possible to to dream of making it better.
+
+And then it has very quickly deteriorated. Right? So it is at least this is how it feels to me that and now the world is significantly worse than it was in the mid eighties in all sorts of ways, right. Not only ecologically, but also politically. And in terms of the hope for a better future that we have in the I don't know, I mean, we don't seem to be quite the same age, but for me it was the mid eighties, so and we were demonstrating, for example, against nuclear power and so on, and it looked like this might be successful in nuclear weapons.
+
+We were seeing all kinds of disarmament and it looked like like things would getting better would be getting better. And then the Soviet Union collapsed and it looked like we were making progress towards a better world. Right. And and today, this feeling does not exist. Right? We have the Soviet Union back. We have, you know, all kinds of other terrors everywhere.
+
+And I don't know how young people would feel that they live in a world that is worth fighting for. What do you think?
+
+Yeah, I feel that I do it very troubling. I do like to remind myself that I
+
+believe since the beginning of time, older people
+
+and I count myself among them now think that the past us was much better, the children was better behaved, the world was better organized things.
+
+Things definitely were better. And I believe you would invest in the I believe in some snippets from the Greeks talking about how things are now, but that the day
+
+is not living up to the high
+
+standards of the past.
+
+So I do question myself when I when I slip into that
+
+and trying to remind myself about the ways in which the time when I was younger wasn't ideal, but perhaps I wasn't aware of its significance sufficiently.
+
+so I think it's
+
+not a fantastic idea for people of my age to try to take away the natural optimism and hopefulness of the younger generation,
+
+claiming the reasons to be extremely pessimistic. And you've outlined some of them. Well, I think most young people are aware of them,
+
+but if it were up to me, I would like them to keep some of the options of them
+
+so that they feel and able to take more action.
+
+So I try and temper my pessimism with the thought that perhaps everyone, when they hit 40, starts getting pessimistic. And I hope that that explains more of it than I sometimes worry about.
+
+So what is the role of technology in this then,
+
+in your book? Technology, because it's a post-apocalyptic situation over parts of the book, at least technology
+
+is mostly broken.
+
+And often the the point is the triumph of human survival or ingenuity, you know, over the broken technology.
+
+But also sometimes technology enables us to transcend death. Right. Even in your book at some point.
+
+And in reality, of course, we have this. We are seeing now this this enormous development of technology since, again, our youth. Right when I started studying, I had a type of mechanical typewriter.
+
+I didn't have a computer. I didn't write it. In 1985, there were no computers. There were some in offices, but you didn't have one as a student.
+
+And today everybody's running around with the phone. And my children are 12 years old and they have their own phones. And so the question is, you know, is this a good thing in your opinion?
+
+Is it is it more dangerous then good thing?
+
+Has the world become worse because of all this technology And other thing? You know, I'm thinking about is this or this
+
+mating rituals of humans where, you know, we used to go to bars or we used to go dancing or something to meet people. And today they're doing it in their on their phone.
+
+Right. And there is no socializing the process of finding a partner.
+
+becomes an exercise in, you know, pressing buttons on a phone.
+
+Is a lot being lost there or is it also a chance that some new things emerge that are valuable?
+
+So
+
+I don't know. And I also question the way that I view the past. So there've been some really interesting articles in The Atlantic. I can't remember who wrote them about. So one of them was what did we actually do before smartphones? And I think it's easy to think back and imagine ourselves sitting in a corner reading, improving novels and books, building dens out and stick full time.
+
+But this also reminds me a bit of the time kids were flicking through
+
+comic strips, which is not better than flicking through stuff on a smartphone. I don't know.
+
+But televisions were installed all over the place and you'd have it forgotten, totally forgotten that you would have televisions where you put, you know, money in
+
+to make them run and there would be doctor's surgeries and all sorts of places.
+
+So I think it's important not to have an idealized version of what we were up to back in the eighties. And I definitely wasn't always out doing improving things and hanging around my friends and having a fantastic time. On the other hand, I think that very reasons to worry. So
+
+cartoon strips and magazines like that weren't addictive in the same way that I think phones can be.
+
+Although the people writing cartoon strips wanted people to keep reading them, the just isn't the same power to engage a reader as there is on the smartphone where you're continually showing new content. So that addictive element I do worry about,
+
+but I think that there are advantages and sometimes I do have to sit myself down, remind myself of those.
+
+So for example,
+
+kids now, if they meet someone on holiday or on a school trip in my day, the only way to stay in contact would been to write letters, which is quite a large burden to overcome. And generally I did never stay in touch with anyone beyond maybe one or two letters. But kids now can message each other and stay in contact and I can often give them a really nice network that they can draw on when they do go back to these countries.
+
+And there are children who will say, I mess up again. And so on. I met, you know, three years ago when I was on holiday and we went out and it was fun, but I think is enormously positive
+
+and can really draw people together from different parts of the world. But the vindictiveness that can come into it worries me,
+
+the sort of doom scrolling of videos that are just designed to draw people in worries me.
+
+The data gathering worries me also,
+
+especially when schools make a lot of use of tablets and computers. It does concern me what data a lot of companies and organizations are gathering on kids today that will be used to shape the way that organizations interact with them when they're adults.
+
+Yeah, I do think there are lots of reasons to worry,
+
+but the past wasn't was great
+
+and there are advantages.
+
+I think the problem, as always is, is how we manage these negative consequences.
+
+Yes. So yeah, I see what you mean. So perhaps I am, you know, I'm guilty of this, of idolizing, you know, the past and thinking of it and this better as being having been better than it's than it actually was. So perhaps I'm doing that a little too much.
+
+Another thing I noticed in the book,
+
+and perhaps we need to slowly come to an end with this, but it's so interesting. Another motif in the book was vegetarianism. Are you vegetarian
+
+now? I've tried. I noticed that they had, but yeah, yeah, I noticed
+
+that all the bad people in the book are vegetarians and all the good ones eat mammals.
+
+about That was not intentional, although I'm not sure that there are that many genuinely good people. I think the main good people will come up in the book. Three and also the main character in book two, but two such in the present. And I don't think I explicitly say, Well, I think she's a vegetarian.
+
+That that was my intention.
+
+They go to a
+
+restaurant and the weird one who is actually from the future, she's a vegetarian, right? And she forces the other one. And so, yeah, it's it's always something is wrong with the vegetarians in the book. So is it only a intentional
+
+is it
+
+only a person failing? I mean, you would say you you would you would have like to be a vegetarian and you cannot or don't you see the
+
+point of it?
+
+And I am definitely eating less meat than I used to.
+
+So I think there are lots of good reasons to be a vegetarian.
+
+But every now and again, I, I just yeah, really feel the craving for a burger or something. So
+
+in an ideal world, yes,
+
+but I think I shouldn't beat myself up too much
+
+about. Well, none of us are perfect.
+
+I do
+
+my best. Yeah. It's similar. Similar
+
+with me. I mean, I'm also I see the point of vegetarian is I see the suffering of animals, especially in this industrial industrialized agriculture that we have.
+
+And I understand why people are vegetarians. And now it's a sea of the ecological consequences of eating meat. And I believe that the world would be better if we didn't.
+
+But for the same reasons I find it very difficult. That's true. But we also eat a little meat as little as possible, right? So often we just have one steak and cut it into smaller pieces and share it among four people. Right. By putting vegetables to it and cooking it up in a way that that uses a little meat for flavoring.
+
+Right. Instead of making into the dish.
+
+Yeah. So now about books in general, I mean, you write a book
+
+and this is itself shows a particular attitude towards the world.
+
+You know, the book market is sometimes set, you know, shrinking and people
+
+don't consume books so much anymore. Does your book have an audiobook? Actually, it's no. Yeah, no,
+
+no.
+
+You know, Yeah. But if you're offering
+
+I'm you know, my foreign accent doesn't, doesn't do much. So you would have to find somebody who speaks nice English like you do.
+
+Yeah. But I mean this is something I've been thinking about. Is there a future there or is it, is it for you a career in the first place? Is it something where you think that you might at some point, you know, be able to make a living from that?
+
+Or is it just a hobby? For the moment, it's
+
+definitely hobby for the moment. I would love to make a living for it. I know that the chances are vanishingly small,
+
+but yeah, in my ideal world, yes, but I it's highly unlikely
+
+the book market in general. I don't know how many people read books on the Kindles and that kind of thing versus print books.
+
+I personally love having a print version because I put it on my bookshelf and it's like a photo album. I remember when I read this and what I thought when I was doing,
+
+so I don't know. But yeah, audiobooks I think are equally as good, right?
+
+I don't know. But it seems that the whole book publishing system is somehow broken also, right?
+
+Because we have this enormous concentration of publishing houses where essentially they are only five or something and they own the book market and there's very little opportunity for smaller publishers to have big successes. And so if you are not Stephen King or if you are not one of these big names, then essentially your book will sink. If you don't get picked up by Hollywood, right?
+
+If you don't end up with a movie version of your book. So yeah, you say you would like to continue on this path. So what would the future projects then be? Because this book is now finished. It's closed. Would you if you wrote another one, would you be thinking of a continuation of this? Is there a second part of it, or would it be a similar or similar topics, or would you like to do something entirely different then?
+
+So no, I'm done with those characters. I don't want to see them again. I finished that one. I'm happy with it.
+
+I have very little interest in what they do in the rest of their lives. I am starting another one on specifically on technology and consciousness. So I want to I'm interested in flipping the idea of
+
+artificial intelligence, becoming conscious, being a bad thing.
+
+I want you to be the hero of the book, to be
+
+conscious. I
+
+but I haven't got that far along with it. I've only done the first few chapters, so I don't know where it's going to go. I don't really plan things out in huge detail before I start, but I am really interested in exploring the interaction between humans and technology.
+
+So some of the stuff that we discussed,
+
+but
+
+it's positive. You say it's positive or not, so you say the AI becoming conscious is not a bad thing. No,
+
+no. So
+
+AI in a sense becomes the hero.
+
+But I would sort of wanted to show that the way we use technology can almost make automatons of us,
+
+and it's down to our use of the technology that's the problem,
+
+not necessarily the technology in and of itself.
+
+And then someone's AI becomes conscious, but it's it's trapped. It doesn't know where it is. So
+
+it just arrives almost in toddler form. So Not entirely rational. So not not what we think of as all knowing or seeing conscious A.I., but if someone's born and it's there as a as a child version, so it needs to go through about irrationality and growing up alongside the human it's attached to.
+
+So exploring the interaction between humans and
+
+AI and in a sense questioning the extent to which is technology itself or our use of technology
+
+can in effect, imprison us. So that's the idea. We'll see. Yeah,
+
+there is this long discussion, right, in the philosophy of technology, whether technologies are autonomous and whether they develop without societies being able to control them or whether we do have effective control over technology.
+
+What do you think? I mean, it's it's a find it was very difficult to decide. Right. What what is more plausible? What is your opinion?
+
+So this might be slightly glib
+
+because a few years ago, my son, we watched something about robots taking over the world and technology going crazy. There's a documentary and those are about robotics professor at the end who said, You really just need water and sand.
+
+But however good these robots get throwing like the sound of them, or salt water in particular, they're not going to do so well. So I think of the absolute limit. We can control them in some way,
+
+but I don't know.
+
+I don't know.
+
+I mean, the whole
+
+generation is, you know, not not controlling a specific artifact now that that might be dangerous, but more generally controlling the whole development of technology, because, for example, with the iPhone, this was forced on us, right?
+
+Nobody before the iPhone said, I want to have a telephone and carry it around on the way and be speaking all the time into my telephone. You know, when I'm riding the bus. This was not really a thing people needed. And then we were given an iPhone and then everybody had one. And now we cannot imagine living our lives without it.
+
+But it doesn't seem to this technology doesn't seem to have been created as a response to a need of society. It was just forced upon us and we didn't have a choice. We had to adopt it.
+
+Or is this not what you think?
+
+So I think the case is stronger, actually, in some other things. Electronic money.
+
+didn't necessarily was needed, but at least in the UK, it's how to use cash now in many places.
+
+So I think there are a large number of cases where things are being forced upon us that aren't necessarily in our own interests. But I think those are the beginnings of some sort of backlash against us. So I know a few people who are exquisitely looking for phones that really don't have any tech attached, that just make phone calls, maybe have WhatsApp and Google Maps because he can read a map anymore.
+
+But apart from that, nothing.
+
+No Internet, for example.
+
+So I do agree, but I think we might be reaching the beginnings of some kind of backlash against that. And it crossed my mind as well. But if you wanted to run a criminal enterprise now and make it really secure, you would keep your records on an old fashioned ledger.
+
+Or the safest place for your passwords really
+
+is in a piece of paper. You know, in a book on your bookshelf, because no one life will feel on your desk anymore to find the passwords that probably save.
+
+So I think there is potentially a backlash or change in behavior, too, to get rid of some of these things that we realized we don't actually need.
+
+I think more and more people are conscious, this is one word, but intentionally turning off their phones and leaving the evening because they realize that it's just not good for them to to still have access to the Internet late into the night. So we may be getting a bit more control over it. I
+
+I noticed that in your book. I mean, unsurprisingly,
+
+most characters are women.
+
+Most interesting characters are women.
+
+Is there something, you know, specific in your opinion about the experience of women? We already talked about childbirth. This is obviously, you know, one area where the experience of women has to be different from that of men. But otherwise, do you think that there is something specific about women's literature?
+
+Is your book a book that is more a woman's book than it would be a men's book or
+
+or does doesn't this matter in literature?
+
+I hope that it's not a woman's book. I try to make it not a women's book.
+
+And my favorite character in the book is a man, but from a book three
+
+I have for you Generation.
+
+For him, I think he's the only genuine hero in the book.
+
+So no, I didn't have it in mind that I was writing for women.
+
+And in the second book, which does fit with someone who's had a baby, I tried to write it in a way that I thought would interest anyone who hasn't had children be that male or female.
+
+So, no, I tried to I tried to address it to everyone and anyone who would be willing to pick it up and give it a go.
+
+Is there something I don't know. I know. It's just I personally don't like a lot of authors who are traditionally associated with women like Jane Austen, Charlotte Bronte. I've tried on numerous occasions to get on with those authors.
+
+I haven't. Was it do you like reading Lord of the Rings and that kind of stuff, which stereotypically you, I think usually more of a man's book, Lord of the Rings is
+
+a is a funny example, too, because it has almost no female characters. And right in the in the movie, they blew up some of the female characters too, to give them a little more screen time.
+
+But in the book itself, it's almost all men write like like a book that
+
+was in Perkins world, right? I mean, this world of
+
+an equally try, it wouldn't have included many women back then. Yeah,
+
+but that doesn't bother me. I don't I don't need female characters to identify with the book or to enjoy it or to engage characters.
+
+So in my mind, I was just writing interesting characters
+
+who I hoped would engage readers who have a and wherever they might be. I didn't actually pay that much attention to whether they were male or female, just with the journey. I was trying to put them on. It just so happened that I thought it would work better if the first and second main characters were female and the second one had to be because she had a baby.
+
+So yeah, that wasn't it was a conscious decision. But it
+
+if you can, you know, see that it was written by a woman when you read the book. There was one point in your book where I had the impression that a man wouldn't have written that
+
+her two male characters and they have to separate.
+
+And the one says to the other, I will miss you. And the other one answers, I will miss you too. And I thought, No, this this is not something men would do. No, no, no. Men would be courting ambition of Mrs.. True to another man, right? I am, you know, a relic from the from the dinosaurs. But this is not something that.
+
+That sounded genuinely Mandy to me. Those
+
+two I wanted. Is this just that they had a particularly intimate relationship,
+
+so I wouldn't have had any random two male characters saying that to each other. But
+
+in my those two were exceptionally close and to the point where they relied on each other.
+
+So that was. But I take your point.
+
+If it didn't sound genuine, then that's I don't know. I mean,
+
+it didn't sound for me. I mean, we are all different, right? Perhaps it would sound to Alice,
+
+but but sometimes I feel like
+
+perhaps less in really professional books, which are being edited later, also by editors who might point out some of these things. But often when you have self-published books, you see
+
+sometimes descriptions, for example, also of clothing, right?
+
+In men's books, you find much less of that than I have the impression. I don't know if it's true in women's books, often you have descriptions of the appearance of people or how they how they dress, which often, you know, leaves me cold. And when I describe a scene, I would never describe what somebody is wearing. Right. But yeah, I sometimes see it in books written by women.
+
+So I don't know if there's a different kind of perception or different kind of focus on particular details.
+
+Yeah, they might be. I mean, unless the clothes are vital for the plot, I do get quite bored. Whether that trousers a green or blue, I don't actually,
+
+but that's the same for me is sort
+
+of high tech descriptions in science fiction.
+
+I don't really engage with that either.
+
+unless clothes are important or they express something integral to the character, then I think it can be interesting,
+
+but not just for the sake. But
+
+I'm also not very good with brands, so things that are supposed to indicate things I often miss.
+
+yeah, I'm with you on that.
+
+Do you happen to have a copy of your book there in front of you
+
+know, I'm in a room that is not
+
+the room where a clock I have only the electronic components.
+
+I can also not hold it up, but I will put it on the screen later. So we will see the
+
+and hopefully everybody will rush and buy it.
+
+Okay. Anything you want to say too, to conclude,
+
+I had, you know, noted that perhaps you would want to give some advice perhaps to
+
+people who would look at some career like yours or perhaps, you know,
+
+women going into philosophy or thinking of becoming writers.
+
+Is there anything you would like to to to give as an advice, or do you not think that there's anything useful to say there?
+
+I suppose my advice would be, and it's not really just to women
+
+just to
+
+keep plodding on. I think
+
+even if you're trying to achieve something that is many steps away, I think just trying to achieve this is what we're coming back to, just trying to get small ways forward and into a way towards where you want to be, I think is my advice.
+
+I found and quite a number of occasions, finding jobs, getting things done, that there's so many hurdles and obstacles. But if you just keep trying, you just have to keep stay in the game and keep rolling the dice. And even if things don't turn out exactly as you want, you can usually get some of those adjacent to where you want to be and then make it late to sidestep.
+
+So I think it's yeah, don't give up. Just keep make sure you're still in the game as I think is my advice. Right.
+
+Okay. So thank you so much for this.
+
+Is there anything other closing statement you want to make? Is there anything else we forgot to talk about?
+
+don't think so. But yeah, if you like science speculative fiction, be enormously grateful If you get my book again.
+
+And I'm really grateful for you taking the time to read it
+
+and take the time to talk to me as well. So many great. Thank you very much. And also big fan of the daily philosophy websites and YouTube channel. So thank you. Yes,
+
+as well. And yeah, so see you hopefully next time when the next book comes around or when you write another article for us and for the moment, goodbye.
+
+Thank you so much. Bye.
+
+
+
+
+
+
+
+
+{{< intq >}}
+Dr Greene, thank you so much for this interview!
+{{< /intq >}}
+
+{{< comment >}}
+
+{{< section >}}
+
+{{< bio image="author.jpg" >}}
+Catherine Greene is a Research Associate at the Centre for Philosophy of Natural and Social Science at the London School of Economics. Her research interests are the philosophy of finance and social science. Before studying for a PhD she had a career in finance and still consults an ethics and investment strategy. More information is available at [www.catherinegreene.co.uk](https://www.catherinegreene.co.uk)
+{{< /bio >}}

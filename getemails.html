@@ -1,0 +1,56 @@
+<html>
+    <head>
+	<title>Find your groupmates</title>
+    </head>
+
+    <script>
+     
+     async function getdata(url){
+	 const response = await fetch(url);
+	 return(await response );
+     }
+     
+     window.onload = function() {
+	 var students=[];
+	 document.getElementById('form').onsubmit = function(e) {
+	     e.preventDefault();
+	     fetch('/students83273.json')
+		 .then(response => response.text())
+		 .then(data => {
+		     students=JSON.parse(data)["students"];
+		     document.getElementById('results').innerHTML="";
+		     for( var i=0; i<students.length; i++ ){
+			 for( var j=0; j<students[i].length; j++ ){
+			     if ( students[i][j].indexOf( document.getElementById('email').value ) >=0 ) {
+				 if ( document.getElementById('email').value.indexOf( '@' ) >=0 ) {
+				     if ( students[i][j].indexOf( ','+document.getElementById('sid').value+',' ) >=0 ) {
+					 for (k=0; k<students[i].length; k++) {
+					     document.getElementById('results').innerHTML+=students[i][k].replace(/\,4[0-9]+\,/,',')+"<br/>";
+					 }
+				     }
+				 }
+			     }
+			 }
+		     }
+		     
+		 });
+	 } 
+     }
+     
+    </script>    
+    <body>
+	<form id="form">
+	<p>
+	    <table border="0">
+		<tr><td>Your email address:</td><td><input type="text" name="email" id="email" value=""></td></tr>
+		<tr><td>Your student ID:</td><td><input type="text" name="sid" id="sid" value=""></td></tr>
+		<tr><td colspan="2"><input type="submit" value="submit" name="submit" id="submit"></td></tr>
+	    </table>
+	</p>
+	<div id="results">	    
+	</div>
+	</form>
+
+    </body>
+</html>
+

@@ -1,0 +1,164 @@
+﻿{
+    "students": [
+	[
+	    "Farhan Khalid,ANSARI,farhankhalidansari@ln.hk,4154172,farhankhalidansari,Debate 1 Group 1",
+	    "Hoi Ching,AU,hoichingau2@ln.hk,4137318,hoichingau2,Debate 1 Group 1",
+	    "Xujiao,BAI,xujiaobai@ln.hk,4095637,xujiaobai,Debate 1 Group 1"
+	],
+	[
+	    "Wenqi,BIAN,wenqibian@ln.hk,4073809,wenqibian,Debate 1 Group 2",
+	    "Jiaxiang,CAI,jiaxiangcai@ln.hk,4161826,jiaxiangcai,Debate 1 Group 2",
+	    "Ching Ping,CHAN,zoechan2@ln.hk,4044028,zoechan2,Debate 1 Group 2"
+	],
+	[
+	    "Ka Yi,CHAN,kayichan23@ln.hk,4198532,kayichan23,Debate 1 Group 3",
+	    "Mudu,CHEN,muduchen@ln.hk,4103422,muduchen,Debate 1 Group 3",
+	    "You,CHEN,youchen@ln.hk,4136405,youchen,Debate 1 Group 3"
+	],
+	[	    "Songxiaoqing,FENG,songxiaoqingfeng@ln.hk,4110138,songxiaoqingfeng,Debate 1 Group 4",
+	    "Yi,FENG,yifeng3@ln.hk,4165755,yifeng3,Debate 1 Group 4",
+	    "Yuxiang,FU,yuxiangfu@ln.hk,4175114,yuxiangfu,Debate 1 Group 4"
+	],
+	[
+	    "Wangchao,JIANG,wangchaojiang@ln.hk,4147131,wangchaojiang,Debate 2 Group 1",
+	    "Lok Yan,LAI,sonialai3@ln.hk,4124206,sonialai3,Debate 2 Group 1",
+	    "Ka Ying,LAM,kayinglam3@ln.hk,4115425,kayinglam3,Debate 2 Group 1"
+	],
+	[
+	    "Sze Ching,LAM,szechinglam2@ln.hk,4099322,szechinglam2,Debate 2 Group 2",
+	    "Haotian,LE,haotianle@ln.hk,4167545,haotianle,Debate 2 Group 2",
+	    "Ching,LEE,chinglee@ln.hk,4162143,chinglee,Debate 2 Group 2",
+	    "Zixi,ZHANG,zixizhang2@ln.hk,4052386,zixizhang2,Debate 2 Group 2"
+	],
+	[
+	    "Yunhao,LIU,yunhaoliu@ln.hk,4006911,yunhaoliu,Debate 2 Group 3",
+	    "Sum Yau,LEUNG,sumyauleung@ln.hk,4071801,sumyauleung,Debate 2 Group 3",
+	    "Yichen,LYU,yichenlv@ln.hk,4182507,yichenlv,Debate 2 Group 3",
+	    "Gege,ZHANG,gegezhang@ln.hk,4194641,gegezhang,Debate 2 Group 3"
+	],
+	[
+	    "Ka Yi,LI,kayili6@ln.hk,4114550,kayili6,Debate 2 Group 4",
+	    "Renwei,LI,renweili@ln.hk,4027953,renweili,Debate 2 Group 4",
+	    "Ximan,LI,ximanli@ln.hk,4018718,ximanli,Debate 2 Group 4",
+	    "Yanmei,YE,yanmeiye@ln.hk,4069717,yanmeiye,Debate 2 Group 4"
+	],
+	[
+	    "Yunqi,LI,yunqili@ln.hk,4194500,yunqili,Debate 3 Group 1",
+	    "Kit Yan,MAN,kityanman2@ln.hk,4065527,kityanman2,Debate 3 Group 1",
+	    "Ziyu,PEI,ziyupei@ln.hk,4010106,ziyupei,Debate 3 Group 1",
+	    "Fenghao,YE,fenghaoye@ln.hk,4045149,fenghaoye,Debate 3 Group 1"
+	],
+	[
+	    "Hoi Lam,WONG,hoilamwong9@ln.hk,4090106,hoilamwong9,Debate 3 Group 2",
+	    "Kai Yim,WONG,kaiyimwong@ln.hk,4083098,kaiyimwong,Debate 3 Group 2",
+	    "Anjie,XUE,anjiexue@ln.hk,4035455,anjiexue,Debate 3 Group 2"
+	],	
+	[
+	    "Yaomin,QIU,yaominqiu@ln.hk,4111687,yaominqiu,Debate 1 Group 1",
+	    "Kwan Ting,SIU,kwantingsiu@ln.hk,4190217,kwantingsiu,Debate 1 Group 1",
+	    "Ting Tsun,SO,tingtsunso@ln.hk,4161773,tingtsunso,Debate 1 Group 1"
+	],
+	[
+	    "Tsz Wai,SO,tszwaiso3@ln.hk,4118219,tszwaiso3,Debate 1 Group 2",
+	    "Yuet Yee,SO,yuetyeeso2@ln.hk,4086454,yuetyeeso2,Debate 1 Group 2",
+	    "Ko Fan,TAM,kofantam@ln.hk,4132289,kofantam,Debate 1 Group 2"
+	],
+	[
+	    "Yaoning,WAN,yaoningwan@ln.hk,4124244,yaoningwan,Debate 1 Group 3",
+	    "Nasser Nicavera,HEUNG,nassernicaveraheung@ln.hk,4175528,nassernicaveraheung,Debate 1 Group 3",
+	    "Wing Chun,FOK,wingchunfok@ln.hk,4116273,wingchunfok,Debate 1 Group 3"
+	],
+	[
+	    "Siu Hang,KWAN,siuhangkwan@ln.hk,4064169,siuhangkwan,Debate 1 Group 4",
+	    "Yan Yee,KWAN,yanyeekwan@ln.hk,4152320,yanyeekwan,Debate 1 Group 4",
+	    "Hoi Ching,LAI,hoichinglai2@ln.hk,4100092,hoichinglai2,Debate 1 Group 4"
+	],
+	[
+	    "Long Chung,LAI,longchunglai@ln.hk,4109103,longchunglai,Debate 2 Group 1",
+	    "Chun Shing,LAM,chunshinglam3@ln.hk,4190619,chunshinglam3,Debate 2 Group 1",
+	    "Jingya,WANG,jingyawang@ln.hk,4160975,jingyawang,Debate 2 Group 1"
+	],
+	[
+	    "Zixuan,WANG,zixuanwang5@ln.hk,4115217,zixuanwang5,Debate 2 Group 2",
+	    "Fei Shuen,WONG,feishuenwong@ln.hk,4076502,feishuenwong,Debate 2 Group 2",
+	    "Wan Huen,CHANG,wanhuenchang@ln.hk,4094712,wanhuenchang,Debate 2 Group 2"
+	],
+	[
+	    "Xuanhao,XU,xuanhaoxu@ln.hk,4111089,xuanhaoxu,Debate 2 Group 3",
+	    "Yuhang,YANG,yuhangyang3@ln.hk,4139366,yuhangyang3,Debate 2 Group 3",
+	    "Wing Tung,YEUNG,chantaleyeung@ln.hk,4043684,chantaleyeung,Debate 2 Group 3"
+	],
+	[
+	    "Chun Pong,YOU,chunpongyou@ln.hk,4185822,chunpongyou,Debate 2 Group 4",
+	    "Man Nga,YU,manngayu@ln.hk,4026179,manngayu,Debate 2 Group 4",
+	    "Tongyan,ZHANG,tongyanzhang@ln.hk,4071746,tongyanzhang,Debate 2 Group 4",
+	    "Wai Lun,TSENG,wailuntseng@ln.hk,4057910,wailuntseng,Debate 2 Group 4"
+	],
+	[
+	    "Xinran,ZHOU,xinranzhou@ln.hk,4192992,xinranzhou,Debate 3 Group 1",
+	    "Chun Ngai,CHAN,chunngaichan2@ln.hk,4117186,chunngaichan2,Debate 3 Group 1",
+	    "Ho Hin,CHAN,hohinchan5@ln.hk,4156015,hohinchan5,Debate 3 Group 1",
+	    "Tsz Ki,TSE,tszkitse@ln.hk,4162181,tszkitse,Debate 3 Group 1"
+	],
+	[
+	    "Kwan Ki,TONG,kwankidonaldtong@ln.hk,4032336,kwankidonaldtong,Debate 3 Group 2",
+	    "Tsz Yu,TONG,tszyutong@ln.hk,4158910,tszyutong,Debate 3 Group 2",
+	    "Hei Yeung,TSANG,heiyeungtsang@ln.hk,4181345,heiyeungtsang,Debate 3 Group 2",
+	    "Lok Man,TSANG,lokmantsang@ln.hk,4160298,lokmantsang,Debate 3 Group 2"
+	],
+	[    
+	    "Haris,USMAN,harisusman@ln.hk,4143082,harisusman,Debate 1 Group 1",
+	    "Wai Yan,YU,ashleyyu@ln.hk,4135205,ashleyyu,Debate 1 Group 1",
+	    "Chengyu,YE,chengyuye@ln.hk,4122571,chengyuye,Debate 1 Group 1"
+	],
+	[
+	    "Tsz Kiu,WONG,tszkiuwong3@ln.hk,4050118,tszkiuwong3,Debate 1 Group 2",
+	    "Twinkle,WONG,twinklewong@ln.hk,4152306,twinklewong,Debate 1 Group 2",
+	    "Sze Hang,TAM,szehangtam@ln.hk,4198441,szehangtam,Debate 1 Group 2"
+	],
+	[
+	    "Sze Wa,CHAN,szewachan2@ln.hk,4035651,szewachan2,Debate 1 Group 3",
+	    "Yee Kiu,CHAN,yeekiuchan2@ln.hk,4134847,yeekiuchan2,Debate 1 Group 3",
+	    "Hei Laam,LAW,heilaamlaw@ln.hk,4172253,heilaamlaw,Debate 1 Group 3",
+	    "Yuk Yau,LIU,yukyauliu@ln.hk,4186802,yukyauliu,Debate 1 Group 3"
+	],
+	[
+	    "Tsz Ching,LAW,tszchinglaw3@ln.hk,4007599,tszchinglaw3,Debate 1 Group 4",
+	    "Tsz Ki,LAW,tszkilaw2@ln.hk,4081040,tszkilaw2,Debate 1 Group 4",
+	    "Cheuk Yan,FUNG,cheukyanfung2@ln.hk,4109464,cheukyanfung2,Debate 1 Group 4",
+	    "Hor Yue,LO,horyuelo@ln.hk,4133312,horyuelo,Debate 1 Group 4"
+	],
+	[
+	    "Shing Kit,DING,shingkitding@ln.hk,4081545,shingkitding,Debate 2 Group 1",
+	    "Tsz Yu,FUNG,tszyufung@ln.hk,4003452,tszyufung,Debate 2 Group 1",
+	    "Jiaying,GUO,jiayingguo@ln.hk,4082202,jiayingguo,Debate 2 Group 1"
+	],
+	[
+	    "Kuanysh,KURMANTAYEV,kuanyshkurmantayev@ln.hk,4024444,kuanyshkurmantayev,Debate 2 Group 2",
+	    "Yat Ming,HO,yatmingho@ln.hk,4126826,yatmingho,Debate 2 Group 2",
+	    "Hoi Ching,IP,hoichingip2@ln.hk,4011564,hoichingip2,Debate 2 Group 2"
+	],
+	[
+	    "Lok Ching,KWAN,lokchingkwan@ln.hk,4122428,lokchingkwan,Debate 2 Group 3",
+	    "Ji Ying,KWONG,gilliankwong@ln.hk,4109672,gilliankwong,Debate 2 Group 3",
+	    "Ho Wang,LEE,howanglee2@ln.hk,4131950,howanglee2,Debate 2 Group 3"
+	],
+	[
+	    "Hoi Ching,LEE,hoichinglee5@ln.hk,4050950,hoichinglee5,Debate 2 Group 4",
+	    "Tsz Kit,LEE,tszkitlee2@ln.hk,4100054,tszkitlee2,Debate 2 Group 4",
+	    "Yuen Chi,LEE,yuenchilee3@ln.hk,4120664,yuenchilee3,Debate 2 Group 4",
+	    "Kwok Ho,MAR,kwokhomar@ln.hk,4005357,kwokhomar,Debate 2 Group 4"
+	],
+	[
+	    "Kwok Kit,LEUNG,kwokkitleung@ln.hk,4047068,kwokkitleung,Debate 3 Group 1",
+	    "Sum Yi,LEUNG,sumyileung2@ln.hk,4120066,sumyileung2,Debate 3 Group 1",
+	    "Wai Ki,LEUNG,waikileung@ln.hk,4078093,waikileung,Debate 3 Group 1",
+	    "Hiu Yin,MA,hiuyinma@ln.hk,4104189,hiuyinma,Debate 3 Group 1"
+	],
+	[
+	    "Chak Kwan,LI,chakkwanli@ln.hk,4077233,chakkwanli,Debate 3 Group 2",
+	    "Ka Ying,LI,kayingli3@ln.hk,4040967,kayingli3,Debate 3 Group 2",
+	    "Yan Ting,LIN,yantinglin@ln.hk,4177277,yantinglin,Debate 3 Group 2",
+	    "Wai Kit,SO,waikitlau3@ln.hk,4139005,waikitlau3,Debate 3 Group 2"
+	]
+    ]}

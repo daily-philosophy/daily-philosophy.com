@@ -1,0 +1,96 @@
+.subtitle {
+    color: #909090;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+h1.f1.athelas.mt3.mb1, h2, h3, h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #202020;
+}
+
+
+.half-opaque {
+    background: rgba(0, 0, 0, 0.2);
+}
+
+div#site-detail {
+	padding-left: 10px;
+}
+
+blockquote {
+	font-style: italic;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+	font-size: 18pt;
+	font-family: Georgia, "Times New Roman", serif;
+}
+
+blockquote p {
+  display: inline;
+}
+
+body {
+	line-height: 180%;
+}
+
+.tinyfont {
+	font-size: 8pt;
+}
+
+
+.box {
+	border: 1px solid #ffcc00;
+	background-color: #f0f0f0;
+	padding: 1.5em;
+}
+
+.affiliate {
+	border: 1px solid #ffcc00;
+	background-color: #f0f0f0;
+	padding: 1.5em;
+}
+
+.top-bar-date {
+	color: #000000;	
+}
+
+.topline {
+	width: 800px;
+}
+
+.topline a {
+	color: #000000;
+	text-align: right;
+	width: 800px;
+}
+
+.custom-logo {
+	width: 150px;
+	height: 150px;
+}
+
+.full {
+	width: 100%;
+}
+
+.icon {
+	width: 40px;
+}
+
+.embed-page-inner {
+	border: 5px solid orange;
+	background: #f0f0f0;
+}
+
+
+img.avatar {
+	width: 10%;
+}
+
+.nested-copy-line-height p {
+    // line-height: 200%;
+    color: #505050;
+}

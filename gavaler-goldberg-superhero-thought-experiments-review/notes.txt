@@ -1,0 +1,56 @@
+
+
+1. Introduce the book and author 
+
+2. Discuss the main points of the book 
+
+3. Offer your own thoughts on the book 
+
+4. Summarize what you've learned from reading the book
+
+
+
+{{< section >}}
+
+
+{{< amazon4 text="Chris Gavaler and Nathaniel Goldberg (2019). <b>Superhero Thought Experiments.</b> University of Iowa Press. 231 pages. ISBN: 978-1609386559. <br/>“Superhero Thought Experiments”, an extremely enjoyable book by Chris Gavaler and Nathaniel Goldberg, introduces superhero fans to philosophy -- and philosophy readers to superhero comic culture." url="https://amzn.to/3USukNd" >}}
+<a href="https://www.amazon.com/Superhero-Thought-Experiments-Comic-Philosophy/dp/1609386558?qid=1668861131&refinements=p_27%3AChris+Gavaler&s=books&sr=1-4&linkCode=li2&tag=dailyphilosop-20&linkId=53e4dd4f9516e2740809f81e85b9b4ba&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1609386558&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=dailyphilosop-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=dailyphilosop-20&language=en_US&l=li2&o=1&a=1609386558" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+{{< /amazon4 >}}
+
+
+
+
+## Book reviews 1
+
+Introduction. All good pieces of academic writing should have an introduction, and book reviews are no exception. Open with a general description of the topic and/or problem addressed by the work in question. Think, if possible, of a hook to draw your readers in.
+
+Summary of argument. Your review should, as concisely as possible, summarize the book’s argument. Even edited collections and textbooks will have particular features intended to make them distinctive in the proverbial marketplace of ideas. What, ultimately, is this book’s raison d’être? If there is an identifiable thesis statement, you may consider quoting it directly.
+
+About the author(s). Some basic biographical information about the author(s) or editor(s) of the book you are reviewing is necessary. Who are they? What are they known for? What particular sorts of qualifications and expertise do they bring to the subject? How might the work you are reviewing fit into a wider research or career trajectory?
+
+Summary of contents. A reasonably thorough indication of the research methods used (if applicable) and of the range of substantive material covered in the book should be included.
+
+Strength. Identify one particular area in which you think the book does well. This should, ideally, be its single greatest strength as an academic work.
+
+Weakness. Identify one particular area in which you think the book could be improved. While this weakness might be related to something you actually believe to be incorrect, it is more likely to be something that the author omitted, or neglected to address in sufficient detail.
+
+Conclusion. End your review with a concluding statement summarizing your opinion of the book. You should also explicitly identify a range of audiences whom you think would appreciate reading or otherwise benefit from the book.
+
+
+
+
+## Book reviews 2
+
+You might be asked to write a book review as a way to help you read actively and form an opinion on the author's views and the context in which the book was written. Book reviews are common ways for academics to evaluate each others' contributions to the field of research, especially in the arts and social sciences where publishing in books is more usual than publishing in journals.
+
+A good review is more than just a summary of the contents. It should include your view on what the purpose of the book is and who it is intended for, and it should address the context (time and place) in which the book has been written,  an evaluation of the author's arguments for strengths and weaknesses, and your identification of any bias in their perspective on the topic. Your lecturer will probably give you some guidance on what they expect, and it is likely to involve you asking yourself some or all of the following questions:
+
+- Who is the author? What is their disciplinary background? What have they published before? Is this building on their previous research or entering a new field?
+- When was the book written? How might that affect the perspective taken? Is there, for example, a political, social or economic context that would impact on the writing?
+- What is the book about? What is the main topic area and scope? How does it fit with other books that have been published in this area?
+- What is the main argument in the book? Is it well argued? Are the author's assumptions valid? Is there any obvious bias in the source of evidence they use?
+- Is the writing style appropriate? Is the book well structured and does it flow comfortably?
+- What is your view on the book's strengths and weaknesses? Do you think it's a valuable contribution to the literature in the discipline?
+
+All of this should be supported by reference to particular passages or chapters that provide evidence to support your views.
+

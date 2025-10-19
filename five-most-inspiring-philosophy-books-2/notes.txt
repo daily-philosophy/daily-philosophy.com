@@ -1,0 +1,330 @@
+
+
+## 7. Nikos Kasatzakis, Ascetic and Francis of Assisi (Ftochoulis)
+
+
+
+{{< amazon3 text="" >}}
+{{< /amazon3 >}}
+
+*For whom is this a good present?*
+
+
+
+## 8. Red Pine (Bill Porter), Chinese Hermits
+
+
+{{< amazon3 text="" >}}
+{{< /amazon3 >}}
+
+
+*For whom is this a good present?*
+
+
+## 9. John Stevens, Extraordinary Zen Masters
+
+
+{{< amazon3 text="" >}}
+{{< /amazon3 >}}
+
+*For whom is this a good present?*
+
+
+
+## 10. Colin Thubron, Jerusalem
+
+
+
+{{< amazon3 text="" >}}
+{{< /amazon3 >}}
+
+*For whom is this a good present?*
+
+
+
+
+
+
+
+
+** BOOKS FOR DP ARTICLES:
+
+## Inspirational
+
+Dan Ariely, Predictably Irrational
+David E Cooper, [Gentle walk through the garden book?]
+Hubert Dreyfus, Meaning book
+Oriana Fallaci, Letter to an unborn child; Monsters, Nothing and that’s it (Vietnam)
+Eugen Herrigel, Zen
+Aldous Huxley, The Doors of Perception; Island; Perennial Philosophy
+Daniel Klein, Travels with Epicurus
+Thomas Merton, Desert Fathers
+Stephanie Mills, Epicurean Simplicity
+Matthieu Ricard: Happiness, The Monk and the Philosopher
+Jill B Taylor, My Stroke of Insight
+Alan Watts
+Lin Yutang, Importance of Living
+
+## Introductions and Histories
+
+100 philosophers
+Russell Western Philosophy
+David E Cooper Anthologies
+Sandel, Justice
+Chinese Philosophy Book from Harvard
+Irving Singer, The Nature of Love
+Wagoner, Love
+Robert Rodriguez, The Book of Hermits
+Van Norden, Introduction to Classical Chinese Philosophy
+Ian Mortimer, Human Race. 10 Centuries of Change on Earth
+Ostler, Empires of the Word ?
+Clive Ponting, A New Green History of the World
+
+## Individual Philosophers
+
+Socrates, Apology
+Epicurus, The Art of Happiness
+Epictetus, Enchiridion
+Marcus Aurelius, Meditations
+Seneca, Brevitate Vitae
+James Watson, The Double Helix
+James Tartaglia, Nihilism
+Miranda, Ensemblance
+Miranda, 3 minutes AI
+Simionescu-Panait, Elegance
+
+## Philosophical Fiction
+
+Luise Rinser, Brother Fire
+Douglas Adams
+Hermann Hesse: Siddhartha, Glasperlenspiel
+Novalis, Lehrlinge zu Sais
+Goethe, Poems and Faust
+Tolstoy stories
+Dostoyevsky Crime and Punishment
+Ibsen?
+Bertold Brecht, Collected Poems
+JG Ballard, Vermillion Sands
+Burgess, Earthly Powers
+Patrick Leigh Fermor, Monasteries book
+Kasatzakis, Alexis Zorbas
+Graham Greene, The Quiet American; Short Stories (!): Cheap in August; Blessing
+Christa Wolf, Kleist?
+Max Frisch, Montauk and Homo Faber
+
+## Critical Thinking
+
+## Movies and Online Lectures
+
+Back to the Future
+Tarkovsky
+Three Colours
+Into Great Silence
+PBS? Series about Amish
+Burger, Chinese Hermits: Amongst White Clouds
+
+Dreyfus, Lectures on Heidegger’s Sein und Zeit
+Kagan, The Peloponnesian War
+Tim Urban, Wait But Why?
+
+
+
+
+
+
+
+
+Go through all amazon tags and recommend those! (put Affiliate links in there!); especially Klein, Travels with Epicurus, Epicurean Simplicity etc Hermits book
+
+Little Sophie book
+Histories of philosophy
+Critical Thinking
+Ethics basics
+Individual philosophers
+Stoic life
+Literary and fiction (Hesse, SF?)
+... and the DP books!
+
+2021-03-03-introductions-to-philosophy/index.md:{{< amazon3 text="This one is easy to read and the short chapters (about 2 pages for every philosopher) make it inviting to just leave it lie close to the sofa and read a chapter now and then..." >}}
+2021-03-03-introductions-to-philosophy/index.md:{{< amazon3 text="What I love about this book is the conversational tone Russell uses. The reader feels as if the great man was talking directly to them over a cup of tea...">}}
+2021-03-03-introductions-to-philosophy/index.md:{{< amazon3 text="This book covers the main areas of philosophy: Ethics, Epistemology, Metaphysics, Philosophy of Religion and Political Philosophy...">}}
+2021-03-15-to-have-or-to-be/index.md:{{< amazon3 text="Fromm’s book goes into a lot more detail than I could present here. There’s no replacement for reading Fromm himself, as millions of readers have known over the past six decades." >}}
+2021-03-25-john-rawls-vaccine/index.md:{{< amazon3 text="Rawls’s book A Theory of Justice is one of the most important books of the 20th century in the philosophy of justice and law." >}}
+2021-03-27-how-much-money-do-we-need/index.md:{{< amazon3 text="Here is a collection of Tolstoy’s stories. They are wonderful in their deep appreciation of the human condition." >}}
+2021-04-02-east-west-happiness/index.md:{{< amazon3 text="Lin Yutang’s book “The Importance of Living” is a passionate defence of the value of happiness in our lives and a meditation on how to achieve it. Lin is as provocative as his ideas are original and his polished, literary style is itself always a sensual pleasure." >}}
+2021-04-07-fromm-art-of-loving/index.md:{{< amazon3 text="Erich Fromm’s “The Art of Loving” has been a classic in the philosophy and psychology of love since it was first published in 1956. It’s a highly readable, provocative and insightful book that might just change the way you look at love." >}}
+2021-04-12-erich-fromm-become-a-loving-person/index.md:{{< amazon3 text="Erich Fromm’s “The Art of Loving” has been a classic in the philosophy and psychology of love since it was first published in 1956. It’s a highly readable, provocative and insightful book that might just change the way you look at love." >}}
+2021-04-14-a-short-history-of-love/index.md:{{< amazon3 text="Singer’s book “The Nature of Love” is the standard work on the philosophy of love. A fascinating three-volume study across twenty-five centuries, it can provide years of study to a motivated reader. A rare book that is, at the same time, serious scholarship and a captivating read." >}}
+2021-04-14-a-short-history-of-love/index.md:{{< amazon3 text="Merton’s classic little book has been an inspiration for millions of Christians over the past half-century since its publication. The stories of the Desert Fathers in one easy to read collection." >}}
+2021-04-19-erich-fromms-new-society/index.md:{{< amazon3 text="Fromm’s book *To Have Or To Be* goes into a lot more detail than I could present here. There’s no replacement for reading Fromm himself, as millions of readers have known over the past six decades." >}}
+2021-04-25-today-watson-crick-paper/index.md:{{< amazon3 text="James Watson’s own account of the discovery of the structure of the DNA molecule is an unforgettable science adventure story. Entertaining as much as it is controversial, it should be in the library of any person interested in the history of science." >}}
+2021-04-25-today-watson-crick-paper/index.md:{{< amazon3 text="A magical vision of a world rebuilt after ours has destroyed itself. Part utopia, part historical treatise, part psychological examination, The Glass Bead Game is a grand adventure in literary imagination." >}}
+2021-04-26-happy-birthday-marcus-aurelius/index.md:{{< amazon3 text="The Meditations is Marcus Aurelius’ philosophical diary and one of the major texts of Stoicism. In it, Marcus describes his life of duty and his thoughts on everyday occurrences. A fascinating read that is as relevant today as it was the moment it was written." >}}
+2021-04-26-happy-birthday-marcus-aurelius/index.md:{{< amazon3 text="If, after reading this, you’re in the mood for some ancient Rome, here is the fabulous movie Gladiator (2000) in an extended edition. In the beginning, we meet Marcus Aurelius, played by Dumbledore actor Richard Harris!" >}}
+2021-04-29-aldous-huxley-island/index.md:{{< amazon3 text="The Doors of Perception is Huxley’s recollection of a mescaline drug experience. It is a rare and precious document, the true, minute-by-minute protocol of how a drug can change our perception, written by one of the greatest writers of the 20th century." >}}
+2021-04-29-aldous-huxley-island/index.md:{{< amazon3 text="The Perennial Philosophy is a sweeping overview of the world’s religious mystical traditions, emphasising the ideas that are common to humanity’s approach to the divine. It is an easy-to-read and immensely fascinating book." >}}
+2021-04-29-aldous-huxley-island/index.md:{{< amazon3 text="“Island” is Aldous Huxley’s vision of a better world, a society that is sane and conducive to human happiness. It is an unforgettable trip to a place that never existed." >}}
+2021-05-03-epicurus-341-270-bc/index.md:{{< amazon3 text="Daniel Klein: <i>Travels with Epicurus.</i><br/>A wonderfully human meditation on old age. A man travels to a Greek island with a suitcase full of books, in search of a better, more dignified way to age." >}}
+2021-05-03-epicurus-341-270-bc/index.md:{{< amazon3 text="<i>The Art of Happiness</i> is a collection of Epicurus’ writings related to his philosophy of happiness. Epicurus is easy and entertaining to read and has a lot to teach us in our modern (and often misguided) societies about how to live a happy life." >}}
+2021-05-07-epicureanism-the-main-idea/index.md:{{< amazon3 text="<i>The Art of Happiness</i> is a collection of Epicurus’ writings related to his philosophy of happiness. Epicurus is easy and entertaining to read and has a lot to teach us in our modern (and often misguided) societies about how to live a happy life." >}}
+2021-05-07-epicureanism-the-main-idea/index.md:{{< amazon3 text="Daniel Klein: <i>Travels with Epicurus.</i><br/>A wonderfully human meditation on old age. A man travels to a Greek island with a suitcase full of books, in search of a better, more dignified way to age." >}}
+2021-05-17-epicurus-trouble-in-the-soul/index.md:{{< amazon3 text="Daniel Klein: <i>Travels with Epicurus.</i><br/>A wonderfully human meditation on old age. A man travels to a Greek island with a suitcase full of books, in search of a better, more dignified way to age." >}}
+2021-05-21-greene-meaningful-disagreement/index.md:{{< amazon3 text="Walter Sinnott-Armstrong: <i>Think Again. How to Reason and Argue.</i><br/>“Our personal and political worlds are rife with arguments and disagreements, some of them petty and vitriolic. The inability to compromise and understand the opposition is epidemic today...”" >}}
+2021-05-27-tartaglia-are-you-a-nihilist/index.md:{{< amazon3 text="<b>James Tartaglia and Tracy Llanera</b> (2021): <i>A Defence of Nihilism.</i> (Routledge Focus on Philosophy). The author of this article, Prof James Tartaglia, has just published a book-length study of Nihilism. Click on the image to get it directly from Amazon!" >}}
+2021-06-11-mills-epicurean-simplicity/index.md:{{< amazon3 text="Here is Stephanie Mills’ book “Epicurean Simplicity.” It is a tender meditation on what makes life worth living and a declaration of love to nature and to life." >}}
+2021-06-14-greene-asimov-predictions/index.md:{{< amazon3 text="Isaac Asimov: <i>Foundation.</i><br/>A multi-volume galactic empire saga. Many say, Asimov’s most important work." >}}
+2021-06-24-epicurus-friendship/index.md:{{< amazon3 text="Daniel Klein: <i>Travels with Epicurus.</i><br/>A wonderfully human meditation on old age. A man travels to a Greek island with a suitcase full of books, in search of a better, more dignified way to age." >}}
+2021-06-24-epicurus-friendship/index.md:{{< amazon3 text="Here is Stephanie Mills’ book “Epicurean Simplicity.” It is a tender meditation on what makes life worth living and a declaration of love to nature and to life." >}}
+2021-06-28-greene-aristotle-galileo/index.md:{{< amazon3 text="James Robert Brown. The Laboratory of the Mind: Thought Experiments in the Natural Sciences. 2010." >}}
+2021-07-02-epicurus-today/index.md:{{< amazon3 text="Here is Stephanie Mills’ book “Epicurean Simplicity.” It is a tender meditation on what makes life worth living and a declaration of love to nature and to life." >}}
+2021-07-02-epicurus-today/index.md:{{< amazon3 text="Daniel Klein: <i>Travels with Epicurus.</i><br/>A wonderfully human meditation on old age. A man travels to a Greek island with a suitcase full of books, in search of a better, more dignified way to age." >}}
+2021-08-09-deep-ecology/index.md:{{< amazon3 text="This is the text" >}}
+2021-08-13-hermits-and-happiness/index.md:{{< amazon3 text="<b>Robert Rodriguez: The Book of Hermits.</b> Here is a new, comprehensive book on Hermits by Robert Rodriguez, the creator of the hermitary.com website. This is a wonderful, sympathetic and informative book from a lifelong researcher of hermit life and lore. I loved reading it, and I cannot recommend it more. - Andreas Matthias, Editor of Daily Philosophy." >}}
+2021-08-18-interview-luca-possati-transhumanism/index.md:{{< amazon3 text="Houellebecq’s novel <b>The Possibility of an Island</b>: A worldwide phenomenon and the most important French novelist since Camus, Michel Houellebecq now delivers his magnum opus - a tale of our present circumstances told from the future, when humanity as we know it has vanished. Get it now!" >}}
+2021-08-18-interview-luca-possati-transhumanism/index.md:{{< amazon3 text="<b>Luca M. Possati: The Algorithmic Unconscious.</b>This book applies the concepts and methods of psychoanalysis to the study of artificial intelligence (AI) and human-AI interaction. It develops a new, more fruitful approach for applying psychoanalysis to AI and machine behavior. <i>Get it now!</i>" >}}
+2021-08-21-jane-dobisz-wisdom-of-solitude/index.md:{{< amazon3 text="Jane Dobisz’ book “One Hundred Days of Solitude” is as entertaining as it is insightful. What happens if someone goes off alone into the woods to experience the hermit life for three months?" >}}
+2021-09-01-interview-wael-hallaq-islamic-law/index.md:{{< amazon3 text="Wael B. Hallaq: <b>Restating Orientalism.</b> Orientalism has often been blamed over its associations with colonialism. But is the rest of academia innocent, or does the West’s misguided relationship to the Islamic world need to be rethought in more depth?" >}}
+2021-09-01-interview-wael-hallaq-islamic-law/index.md:{{< amazon3 text="Wael B. Hallaq’s <b>An Introduction to Islamic Law</b> explains the theories mentioned in this interview in more depth, while never ceasing to be a challenging and utterly absorbing read. How did Islamic thought change through the influence of the West? Learn all about it here." >}}
+2021-09-03-david-cooper-chomei-heidegger-hut/index.md:{{< amazon3 text="Hōjōki is an extended meditation on the impermanence of the world and the danger of attachment. Written by the reclusive monk Kamo no Chōmei at the dawn of the thirteenth century, this classic work of Japanese literature is celebrated for its linguistic simplicity and philosophical depth. (Kindle Edition)" >}}
+2021-09-03-david-cooper-chomei-heidegger-hut/index.md:{{< amazon3 text="In this beautifully written book, David E. Cooper uses a gentle walk through a tropical garden – the view of the fields and hills beyond it, the sound of birds, voices and flutes, the reflection of light in water ... as an opportunity to reflect on experiences of nature and the mystery of existence." >}}
+2021-09-17-daodejing-book-of-the-way/index.md:{{< amazon3 text="Bertolt Brecht’s collected poems in a wonderful edition. If you have never read Brecht’s poems, you have missed one of the greatest pleasures available in the world of letters. Kindle version <a href='https://amzn.to/3zgWhTv'>here</a>." >}}
+2021-09-20-interview-simionescu-panait-elegance/index.md:{{< amazon3 text="<b>Phenomenology. The Basics.</b> Dan Zahavi’s book is concise introduction to phenomenology and a good starting point for further study.">}}
+2021-09-25-daodejing-hermits-manual/index.md:{{< amazon3 text="<b>Bryan van Norden’s Introduction to Classical Chinese Philosophy</b> covers in short chapters the main systems of Chinese thought, from Confucianism and Daoism to even a short overview of the 20th century. It’s an easy read that, nonetheless, gives a good impression of what Chinese philosophies are about. Kindle ebook <a href='https://www.amazon.com/gp/product/B007TLOPKE/ref=as_li_tl?ie=UTF8&tag=dailyphilosop-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B007TLOPKE&linkId=61e3eed2b44fd8c44fed59a7359246ae'>here</a>." >}}
+2021-09-27-robert-rodriguez-book-of-hermits/index.md:{{< amazon3 text="<b>Robert Rodriguez: The Book of Hermits.</b> Here is a new, comprehensive book on Hermits by Robert Rodriguez, the creator of the hermitary.com website. This is a wonderful, sympathetic and informative book from a lifelong researcher of hermit life and lore. I loved reading it, and I cannot recommend it more. Get it right <a href='https://amzn.to/39DdMD7'>here on Amazon</a>! - Dr Andreas Matthias, Editor of Daily Philosophy." >}}
+2021-10-01-interview-rodriguez-hermits/index.md:{{< amazon3 text="<b>Robert Rodriguez: The Book of Hermits.</b> Here is a new, comprehensive book on Hermits by Robert Rodriguez, the creator of the hermitary.com website. This is a wonderful, sympathetic and informative book from a lifelong researcher of hermit life and lore. I loved reading it, and I cannot recommend it more. Get it right <a href='https://amzn.to/39DdMD7'>here on Amazon</a>! - Dr Andreas Matthias, Editor of Daily Philosophy." >}}
+2021-10-04-ian-kidd-gardens-of-refuge/index.md:{{< amazon3 text="<b>Robert Pogue Harrison, Gardens: An Essay on the Human Condition.</b> Some gardens offer ‘a kind of haven, if not a kind of heaven’. Beyond the garden wall, one finds the sprawling world of artificiality, competitiveness, and violence; within those walls, there is calm, natural vitality, and goodness. (Ian James Kidd)" >}}
+2021-10-09-the-wisdom-of-the-dao/index.md:{{< amazon3 text="Aldous Huxley’s “The Perennial Philosophy” is a sweeping overview of the world’s religious mystical traditions, emphasising the ideas that are common to humanity’s approach to the divine. It is an easy-to-read and immensely fascinating book." >}}
+2021-10-27-modern-hermits/index.md:{{< amazon3 text="<b>Lost in the Taiga: One Russian Family's Fifty-Year Struggle for Survival and Religious Freedom in the Siberian Wilderness.</b> Journalist Vasily Peskov visited Agafia Lykova once a year for 12 years, and in this book he wrote down her story. It is a haunting tale of a solitary life in one of the least hospitable places on Earth. -- Be careful with the price of this book. Last time I checked, it was crazily expensive. You might want to find a used copy somewhere else." >}}
+2021-11-01-greene-alternative-history/index.md:{{< amazon3 text="<b>Christopher Prendergast. Counterfactuals: Paths of the Might Have Been.</b> “What are counterfactuals and what is their point? In many cases, none at all.” Prendergast explores the science and philosophy of counterfactuals from antiquity to the present in this rich and entertaining book." >}}
+2021-11-11-what-does-stoic-mean-nov21/index.md:{{< amazon3 text="<b>Epictetus, The Enchiridion.</b> Over the centuries, this ancient handbook of wisdom has accompanied the lives of countless people who relied on it for advice and comfort when times got rough. It is still one of the most significant philosophical works about happiness and wisdom in all of history." >}}
+2021-11-11-what-does-stoic-mean-nov21/index.md:{{< amazon3 text="The <b>Meditations</b> is Marcus Aurelius’ philosophical diary and one of the major texts of Stoicism. In it, Marcus describes his life of duty and his thoughts on everyday occurrences. A fascinating read that is as relevant today as it was the moment it was written." >}}
+2021-11-27-luis-de-miranda-esprit-de-corps/index.md:{{< amazon3 text="<b>Luis de Miranda: Ensemblance.</b> A wonderful example of the ‘archaeological’ approach to culture studies, this book traces the long and complex history of the “Esprit de corps” concept through the centuries." >}}
+2021-12-01-live-happier-with-aristotle-book/index.md:{{< amazon3 text="This is the text" >}}
+2021-12-11-philosophy-books-for-christmas/index.md.~1~:{{< amazon3 text="This is the text" >}}
+2021-12-11-philosophy-books-for-christmas/index.md:{{< amazon3 text="This is the text" >}}
+2021-12-11-philosophy-books-for-christmas/index.md.~2~:{{< amazon3 text="This is the text" >}}
+2021-12-13-stoic-view-of-the-self-nov21/index.md:{{< amazon3 text="<b>Epictetus, The Enchiridion.</b> Over the centuries, this ancient handbook of wisdom has accompanied the lives of countless people who relied on it for advice and comfort when times got rough. It is still one of the most significant philosophical works about happiness and wisdom in all of history." >}}
+2021-12-15-dialectic-of-enlightenment/index.md:{{< amazon3 text="This is the text" >}}
+2021-12-27-what-is-hedonism-nov21/index.md:{{< amazon3 text="This is the text" >}}
+2021-12-30-review-of-2021/index.md.~1~:{{< amazon3 text="This is the text" >}}
+2021-12-30-review-of-2021/index.md:{{< amazon3 text="This is the text" >}}
+2021-12-30-review-of-2021/index.md.~2~:{{< amazon3 text="This is the text" >}}
+2022-01-14-herbert-marcuse-one-dimensional-man-nov21/index.md:{{< amazon3 text="This is the text" >}}
+
+
+
+FIRST, CHANGE THIS DIRECTORY’S NAME!
+
+## H2
+
+TITLE: 
+- Less than 60 characters
+- Exactly as written on your Hit List
+- Capitalize words as if book a title
+
+LEAD IN -- ​ 2-3 sentences:
+- Give confidence you can help the reader
+- This will be the default meta description
+
+ANSWER SECTION -- Up to 300 characters:
+- Though short, this is arguably the most important part to get right. 
+- Optimize this for appearing in a Google snippet. Wordsmith this!
+- Directly answer the main question of the title in the first five words, then add caveats and clarifications.
+- Usually formatted as a paragraph
+- Format as a list for how-to or multi-part info
+- Lists with many steps don’t need this section
+- Can be a table of data if comparing things
+- Answer as if writing for an encyclopedia, definition-style
+- Never put YES or NO in answer target (because question may be asked differently)
+
+READ ON -- 1-3 sentences:
+- Convince the reader you have more to share
+
+SUBHEAD 1
+- Format as H2
+- Detailed info in main topic
+- No more than 60 chars long
+
+DETAILED ANSWER -- ​ Multiple paragraphs:
+- More in-depth answer to the main question
+- Don’t leave the reader with remaining doubts
+- Write the most in-depth answer on the web
+- Can include tables, graphs, quotes, lists, etc
+
+MORE INFO -- ​ Multiple subheadings and multiple paragraphs under each subheading:
+- No more than 60 chars long
+- If lists: number items as H2 headings. Best are 9 or more items because Google shows only 8, so the user has to click to the site.
+- Address nuances, individual steps/tips, and aspects of the answer. Write conversationally.
+- Jokes and sarcasm are okay, but keep it professional.
+- Covers additional aspects of the main topic.
+- Multiple subheadings and paragraphs
+- Do not stray from main topic
+- Consider what reader’s next question will be without straying from main topic
+- Break up text with interesting formatting such as tables, lists, block quotes, images, and videos
+- Keep paragraphs to 6 lines or less
+
+
+## Notes -- remove all this:
+
+{{< section >}}
+{{< subscribe-form >}}
+
+BOOK AD:
+{{< ad1 >}}
+
+{{< box >}}Box{{< /box >}}
+{{< bq >}}Pullquote big{{< /bq >}}
+{{< blockquote >}}Blockquote{{< /blockquote >}}
+
+{{< subscribe >}}
+{{< subscribe-form >}}
+{{< sharethis >}}
+
+{{< amazon3 text="This is the text" >}}
+IMAGE LINK FROM AMAZON HERE (a href=...)
+{{< /amazon3 >}}
+
+OLD: {{< amazon alt-text-link >}} amazon affiliate iframe {{< /amazon >}}
+OLD: {{< amazon >}} amazon affiliate iframe {{< /amazon >}}
+{{< preview 2021-02-15-title... >}}   Just the article
+{{< previewr 2021-02-15-title... >}}  With “recommended” line
+
+[Link text](https://daily-philosophy.com/...)
+
+[Link text](/2021-...-post/)
+
+{{< imgx image="image1.jpg" caption="" >}}
+MAKE SURE TO CREATE WEBP VERSIONS OF THIS, BUT ALWAYS LINK THE JPG HERE
+
+{{< imgxclick image="image1.jpg" caption="" >}}
+... produces a “click to see full version” image.
+
+![Image caption](https://....jpg)
+
+{{< related-inline 1 >}}
+
+{{< youtube id="w7Ft2ymGmfc" title="title here" >}}
+
+{{< youtube w7Ft2ymGmfc >}}
+
+
+Site building:
+- Add tags and categories
+- Create featured image
+- Create other sizes of featured image with content/posts/create-jpg-webp.sh
+
+SEO:
+- Focus keyphrase
+- Add short page description for Google results (meta description, 156 characters)
+- Use keyphrase in meta description
+- Keyphrase not used before
+- Start first text paragraph with keyphrase
+- Keyphrase in permalink/slug
+- Keyphrase in H2 headers
+- Keyphrase around 4-8 times in text (depending on length)
+- Image ALT attributes
+- Outbound links to high ranking sites
+- Internal links to other posts
+
+Monetisation:
+- Add Amazon affiliate links
