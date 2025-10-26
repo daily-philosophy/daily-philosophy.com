@@ -6,7 +6,7 @@
   
   <url>
     <loc>https://daily-philosophy.com/posts/</loc>
-    <lastmod>2025-10-19T10:35:51+08:00</lastmod>
+    <lastmod>2025-10-26T16:25:45+08:00</lastmod>
     <changefreq>daily</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -34,7 +34,7 @@
   
   <url>
     <loc>https://daily-philosophy.com/categories/bestof/</loc>
-    <lastmod>2025-10-19T10:35:51+08:00</lastmod>
+    <lastmod>2025-10-26T16:25:45+08:00</lastmod>
     <changefreq>daily</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -50,6 +50,135 @@
       <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/bestof/" />
       <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/bestof/" />
       <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/bestof/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/</loc>
+    <lastmod>2025-10-26T16:25:45+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/current-affairs/</loc>
+    <lastmod>2025-10-26T16:25:45+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/cave-israel/</loc>
+    <lastmod>2025-10-26T16:25:45+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    
+      <image:image>
+	<image:loc>https://daily-philosophy.com/cave-israel/author.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/cave-israel/featured-1200px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/cave-israel/featured-1200px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/cave-israel/featured-500px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/cave-israel/featured-500px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/cave-israel/featured-800px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/cave-israel/featured-800px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/cave-israel/featured-thumbnail.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/cave-israel/featured-thumbnail.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/cave-israel/featured-top.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/cave-israel/featured.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/cave-israel/featured.webp</image:loc>
+      </image:image>
+      
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/guest-post/</loc>
+    <lastmod>2025-10-26T16:25:45+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/guest-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/guest-post/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/guest-post/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/guest-post/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/guest-post/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/political-philosophy/</loc>
+    <lastmod>2025-10-26T16:25:45+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/xmodern/</loc>
+    <lastmod>2025-10-26T16:25:45+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/xmodern/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/xmodern/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/xmodern/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/xmodern/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/xmodern/" />
   </url>
   
   <url>
@@ -115,26 +244,6 @@
   </url>
   
   <url>
-    <loc>https://daily-philosophy.com/categories/</loc>
-    <lastmod>2025-10-19T10:35:51+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/" />
-  </url>
-  
-  <url>
     <loc>https://daily-philosophy.com/categories/classics/</loc>
     <lastmod>2025-10-19T10:35:51+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -152,26 +261,6 @@
       <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/classics/" />
       <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/classics/" />
       <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/classics/" />
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/guest-post/</loc>
-    <lastmod>2025-10-19T10:35:51+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/guest-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/guest-post/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/guest-post/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/guest-post/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/guest-post/" />
   </url>
   
   <url>
@@ -353,33 +442,6 @@
 	<image:loc>https://daily-philosophy.com/cave-democracy/person-depositing-voting-card-into-ballot-box-for-2025-03-05-19-34-39-utc.jpg</image:loc>
       </image:image>
       
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/current-affairs/</loc>
-    <lastmod>2025-09-28T12:25:45+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/xmodern/</loc>
-    <lastmod>2025-09-28T12:25:45+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/xmodern/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/xmodern/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/xmodern/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/xmodern/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/xmodern/" />
   </url>
   
   <url>
@@ -573,13 +635,6 @@
 	<image:loc>https://daily-philosophy.com/quotes-everything-flows/image1.webp</image:loc>
       </image:image>
       
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/political-philosophy/</loc>
-    <lastmod>2025-09-06T17:35:51+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    
   </url>
   
   <url>
