@@ -6,7 +6,7 @@
   
   <url>
     <loc>https://daily-philosophy.com/posts/</loc>
-    <lastmod>2025-10-26T16:25:45+08:00</lastmod>
+    <lastmod>2025-11-03T18:35:51+08:00</lastmod>
     <changefreq>daily</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -33,8 +33,71 @@
   </url>
   
   <url>
+    <loc>https://daily-philosophy.com/atkinson-devil/</loc>
+    <lastmod>2025-11-03T18:35:51+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    
+      <image:image>
+	<image:loc>https://daily-philosophy.com/atkinson-devil/author.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/atkinson-devil/featured-1200px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/atkinson-devil/featured-1200px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/atkinson-devil/featured-500px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/atkinson-devil/featured-500px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/atkinson-devil/featured-800px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/atkinson-devil/featured-800px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/atkinson-devil/featured-thumbnail.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/atkinson-devil/featured-thumbnail.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/atkinson-devil/featured-top.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/atkinson-devil/featured.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/atkinson-devil/featured.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/atkinson-devil/image1.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/atkinson-devil/image1.webp</image:loc>
+      </image:image>
+      
+  </url>
+  
+  <url>
     <loc>https://daily-philosophy.com/categories/bestof/</loc>
-    <lastmod>2025-10-26T16:25:45+08:00</lastmod>
+    <lastmod>2025-11-03T18:35:51+08:00</lastmod>
     <changefreq>daily</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -54,7 +117,7 @@
   
   <url>
     <loc>https://daily-philosophy.com/categories/</loc>
-    <lastmod>2025-10-26T16:25:45+08:00</lastmod>
+    <lastmod>2025-11-03T18:35:51+08:00</lastmod>
     <changefreq>daily</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -70,6 +133,86 @@
       <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/" />
       <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/" />
       <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/classics/</loc>
+    <lastmod>2025-11-03T18:35:51+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/classics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/classics/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/classics/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/classics/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/classics/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/guest-post/</loc>
+    <lastmod>2025-11-03T18:35:51+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/guest-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/guest-post/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/guest-post/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/guest-post/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/guest-post/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/religion/</loc>
+    <lastmod>2025-11-03T18:35:51+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/religion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/religion/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/religion/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/religion/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/religion/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/xclassics/</loc>
+    <lastmod>2025-11-03T18:35:51+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/xclassics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/xclassics/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/xclassics/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/xclassics/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/xclassics/" />
   </url>
   
   <url>
@@ -132,26 +275,6 @@
 	<image:loc>https://daily-philosophy.com/cave-israel/featured.webp</image:loc>
       </image:image>
       
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/guest-post/</loc>
-    <lastmod>2025-10-26T16:25:45+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/guest-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/guest-post/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/guest-post/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/guest-post/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/guest-post/" />
   </url>
   
   <url>
@@ -241,26 +364,6 @@
 	<image:loc>https://daily-philosophy.com/makedonas-carlo-michelstaedter/featured.webp</image:loc>
       </image:image>
       
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/classics/</loc>
-    <lastmod>2025-10-19T10:35:51+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/classics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/classics/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/classics/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/classics/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/classics/" />
   </url>
   
   <url>
@@ -556,26 +659,6 @@
 	<image:loc>https://daily-philosophy.com/nitoaia-modern-stoicism/featured.webp</image:loc>
       </image:image>
       
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/xclassics/</loc>
-    <lastmod>2025-09-15T20:10:20+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/xclassics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/xclassics/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/xclassics/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/xclassics/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/xclassics/" />
   </url>
   
   <url>
@@ -1474,26 +1557,6 @@
 	<image:loc>https://daily-philosophy.com/balds-morton-deliver-us-from-evil-part-2/treenabalds.jpg</image:loc>
       </image:image>
       
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/religion/</loc>
-    <lastmod>2025-05-31T14:05:27+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/religion/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/religion/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/religion/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/religion/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/religion/" />
   </url>
   
   <url>
@@ -22563,6 +22626,14 @@
     <lastmod>2020-12-27T15:43:15+00:00</lastmod>
     <changefreq>daily</changefreq>
     
+      <image:image>
+	<image:loc>https://daily-philosophy.com/authors/ChrisAtkinson.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/authors/EleftheriosMakedonas.jpg</image:loc>
+      </image:image>
+      
       <image:image>
 	<image:loc>https://daily-philosophy.com/authors/abdala-rioja.jpg</image:loc>
       </image:image>
