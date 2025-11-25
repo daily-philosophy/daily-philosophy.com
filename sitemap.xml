@@ -6,7 +6,7 @@
   
   <url>
     <loc>https://daily-philosophy.com/posts/</loc>
-    <lastmod>2025-11-18T18:25:45+08:00</lastmod>
+    <lastmod>2025-11-25T21:24:16+08:00</lastmod>
     <changefreq>daily</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -33,6 +33,131 @@
   </url>
   
   <url>
+    <loc>https://daily-philosophy.com/categories/</loc>
+    <lastmod>2025-11-25T21:24:16+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/guest-post/</loc>
+    <lastmod>2025-11-25T21:24:16+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/guest-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/guest-post/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/guest-post/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/guest-post/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/guest-post/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/interview-paul-b-preciado/</loc>
+    <lastmod>2025-11-25T21:24:16+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    
+      <image:image>
+	<image:loc>https://daily-philosophy.com/interview-paul-b-preciado/bio1.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/interview-paul-b-preciado/bio2.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/interview-paul-b-preciado/featured-1200px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/interview-paul-b-preciado/featured-1200px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/interview-paul-b-preciado/featured-500px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/interview-paul-b-preciado/featured-500px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/interview-paul-b-preciado/featured-800px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/interview-paul-b-preciado/featured-800px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/interview-paul-b-preciado/featured-thumbnail.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/interview-paul-b-preciado/featured-thumbnail.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/interview-paul-b-preciado/featured-top.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/interview-paul-b-preciado/featured.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/interview-paul-b-preciado/featured.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/interview-paul-b-preciado/image1.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/interview-paul-b-preciado/image1.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/interview-paul-b-preciado/image2.jpg</image:loc>
+      </image:image>
+      
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/interviews/</loc>
+    <lastmod>2025-11-25T21:24:16+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/xinterviews/</loc>
+    <lastmod>2025-11-25T21:24:16+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    
+  </url>
+  
+  <url>
     <loc>https://daily-philosophy.com/categories/bestof/</loc>
     <lastmod>2025-11-18T18:25:45+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -50,26 +175,6 @@
       <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/bestof/" />
       <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/bestof/" />
       <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/bestof/" />
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/</loc>
-    <lastmod>2025-11-18T18:25:45+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/" />
   </url>
   
   <url>
@@ -164,26 +269,6 @@
       <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/ethics/" />
       <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/ethics/" />
       <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/ethics/" />
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/guest-post/</loc>
-    <lastmod>2025-11-09T19:31:20+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/guest-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/guest-post/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/guest-post/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/guest-post/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/guest-post/" />
   </url>
   
   <url>
@@ -4757,13 +4842,6 @@
   </url>
   
   <url>
-    <loc>https://daily-philosophy.com/categories/interviews/</loc>
-    <lastmod>2024-04-06T19:20:39+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    
-  </url>
-  
-  <url>
     <loc>https://daily-philosophy.com/interview-jean-arnaud-ai-future/</loc>
     <lastmod>2024-04-06T19:20:39+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -4812,13 +4890,6 @@
 	<image:loc>https://daily-philosophy.com/interview-jean-arnaud-ai-future/featured.webp</image:loc>
       </image:image>
       
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/xinterviews/</loc>
-    <lastmod>2024-04-06T19:20:39+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    
   </url>
   
   <url>
