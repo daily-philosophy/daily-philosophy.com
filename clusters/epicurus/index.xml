@@ -13,6 +13,78 @@
     
     
     <item>
+<title>Darwin’s Four Postulates in Light of “Don’t Die”</title>
+<link>https://daily-philosophy.com/neel-somani-darwins-postulates/</link>
+<pubDate>Tue, 06 Jan 2026 22:12:39 +0800</pubDate>
+      
+      <guid>https://daily-philosophy.com/neel-somani-darwins-postulates/</guid>
+<description>&lt;p&gt;For most of history, more people meant more power. I came across this X post that I initially found alarming for Western civilization:&lt;/p&gt;
+
+
+
+
+
+&lt;figure&gt;
+    &lt;picture&gt;
+
+	
+
+	&lt;source data-srcset=&#34;image1.webp&#34; type=&#34;image/webp&#34;&gt;	
+	&lt;img data-src=&#34;image1.jpg&#34; class=&#34;db  lazyload&#34; alt=&#34;Source: Arnaud Bertrand on X&#34; /&gt;
+
+    &lt;/picture&gt;
+    &lt;figcaption&gt;
+	&lt;p class=&#34;caption&#34;&gt;Source: &lt;a href=&#34;https://x.com/RnaudBertrand/status/1964217291664691491&#34;&gt;Arnaud Bertrand on X&lt;/a&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;But what I realized is that the argument is subtly incorrect, because it fails to recognize the important shifts happening.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s easy to see why a negative birth rate society is concerning to most. In &amp;ldquo;On the Origin of Species,&amp;rdquo; Darwin presents his famous four postulates argument. He frames these as sufficient conditions for natural selection to occur:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Variation among individuals&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Heritability of that variation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Overproduction leading to competition&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Differential reproductive success&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Biologists today often treat these not only as sufficient, but also as necessary. So to a biologist, these conditions make clear why a society with a persistently negative birth rate is unsustainable. Without reproduction, traits cannot be propagated, and the lineage eventually disappears.&lt;/p&gt;
+&lt;p&gt;But the picture is shifting. Fertility rates are falling globally, yet lifespans are lengthening. Ray Kurzweil makes the popular argument that advances in medicine and technology suggest a possible future in which human life expectancy could increase faster than we age. Bryan Johnson speaks of a future where our top priority is simply &amp;ldquo;don&amp;rsquo;t die.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;This raises a question: does Darwin&amp;rsquo;s argument no longer hold up in a Kurzweilian world where we might not die of old age at all?&lt;/p&gt;
+&lt;h2 id=&#34;from-generations-to-timesteps&#34;&gt;From Generations to Timesteps&lt;/h2&gt;
+&lt;p&gt;Darwin&amp;rsquo;s framing relied on &amp;ldquo;generations&amp;rdquo; as the natural unit of evolutionary change. Evolution, he argues, is the process of the gene pool shifting from generation to generation. This was a reflection of his early understanding of biology, but our modern view on evolution has adapted over the last 100 years.&lt;/p&gt;
+
+
+&lt;div class=&#34;bq&#34;&gt;This raises a question: does Darwin&amp;rsquo;s argument no longer hold up in a Kurzweilian world where we might not die of old age at all?&amp;nbsp;&lt;a href=&#34;http://twitter.com/intent/tweet?url=https%3a%2f%2fdaily-philosophy.com%2fneel-somani-darwins-postulates%2f&amp;text=&amp;ldquo;This%20raises%20a%20question%3a%20does%20Darwin%e2%80%99s%20argument%20no%20longer%20hold%20up%20in%20a%20Kurzweilian%20world%20where%20we%20might%20not%20die%20of%20old%20age%20at%20all%3f&amp;rdquo; Neel%20Somani on Daily %23Philosophy.&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://daily-philosophy.com/twitter3.png&#34; alt=&#34;Tweet!&#34; width=&#34;32px&#34; class=&#34;bqimg&#34;&gt;&lt;/a&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;Generations are noisy to measure (organisms reproduce at different ages) and the distinction between parents and children is less fundamental than it appears. A &amp;ldquo;child&amp;rdquo; is simply a continuation of the biochemical process that ran in its parent, part of a continuous stream of life extending back to the origin of life itself.&lt;/p&gt;
+&lt;p&gt;The more precise discretization of evolution is therefore &amp;ldquo;timesteps&amp;rdquo; (t, t+1, t+2, …). Recast in these terms, Darwin&amp;rsquo;s &amp;ldquo;four&amp;rdquo; postulates become:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Variation exists at a given timestep&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Traits or states persist across timesteps (retention)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(not necessary)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Certain traits are differentially favored in persistence or propagation&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This version no longer requires reproduction per se, only continuity of adaptive traits across timesteps. And it no longer requires Darwin&amp;rsquo;s third postulate on competition. Instead, the fourth postulate implies some filtering or differential persistence mechanism exists. …&lt;/p&gt;</description>
+</item>
+    
+    <item>
 <title>Machiavelli on Cruelty and Compassion</title>
 <link>https://daily-philosophy.com/stephen-leach-machiavelli/</link>
 <pubDate>Sat, 20 Dec 2025 19:21:39 +0800</pubDate>
@@ -2201,17 +2273,17 @@ Mr Arnaud, welcome to Daily Philosophy! What revolutionary changes are being dri
 	    
 	    &lt;ul class=&#34;author-articles&#34;&gt;
 		
-		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/what-is-philosophy-in-simple-words/&#34;&gt;What Is Philosophy in Simple Words? &lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/what-is-cultural-appropriation/&#34;&gt;Can You Steal a Culture? Making sense of cultural appropriation&lt;/a&gt;&lt;/li&gt;
 		
-		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/erich-fromms-new-society/&#34;&gt;Erich Fromm’s New Society. Can we build a better world?&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/april-25-watson-crick-paper/&#34;&gt;April 25: Happy Birthday, Genetic Engineering!. April 25, 1953: Watson and Crick publish DNA double helix&lt;/a&gt;&lt;/li&gt;
 		
-		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/milburn-just-fodder-review/&#34;&gt;Just Fodder. The Ethics of Feeding Animals. Book review&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/morton-hell-review/&#34;&gt;Timothy Morton: Hell. Book review&lt;/a&gt;&lt;/li&gt;
 		
-		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/interview-simionescu-panait-elegance/&#34;&gt;Andrei Simionescu-Panait on Elegance. Philosopher interviews&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/erich-fromm-on-our-relation-to-technology/&#34;&gt;Erich Fromm on Our Relation to Technology. Rediscovering ancient skills in everyday life&lt;/a&gt;&lt;/li&gt;
 		
-		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/interview-miguel-angel/&#34;&gt;Miguel Angel on Running a Philosophy Site. Philosopher interviews&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/what-does-stoic-mean/&#34;&gt;What Does ‘Stoic’ Mean? A short history of Stoicism&lt;/a&gt;&lt;/li&gt;
 		
-		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/what-is-alienation/&#34;&gt;What is Alienation? Karl Marx on how society fails us&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/interview-robert-rodriguez-hermits/&#34;&gt;Robert Rodriguez on Hermits. Philosopher interviews&lt;/a&gt;&lt;/li&gt;
 		
 	    &lt;/ul&gt;
 	  
@@ -3986,7 +4058,7 @@ completely due to our agency. Humanity (and you) are on their own. For
 you: existence precedes essence; for the table: essence precedes
 existence.&lt;/p&gt;
 &lt;div class=&#34;commentprompt&#34;&gt;
-    Be part of the discussion!
+    Do you have your own thoughts on this? Let us know!
     
     &lt;a href=&#34;https://dailyphilosophy.substack.com/p/sartres-existentialism-261/comments&#34; target=&#34;_blank&#34;&gt;Click here&lt;/a&gt; to leave a comment.
        
@@ -3996,7 +4068,7 @@ existence.&lt;/p&gt;
 &lt;p&gt;Because existence precedes essence and we start as nothing, we can
 establish our essence any way we see fit &amp;mdash; we will whether we want to
 or not. We are absolutely free. Sartre famously says we are &amp;ldquo;condemned
-to freedom.&amp;rdquo; The slate is blank, and the …&lt;/p&gt;</description>
+to freedom.&amp;rdquo; The …&lt;/p&gt;</description>
 </item>
     
     <item>
@@ -5129,19 +5201,19 @@ The good and the bad, what counts most and what least.&lt;/p&gt;
 	    
 	    &lt;ul class=&#34;author-articles&#34;&gt;
 		
-		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/hauskeller-the-new-companion/&#34;&gt;The New Companion. A short story&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/hauskeller-nothing-matters/&#34;&gt;Nothing Matters. Or Does It? &lt;/a&gt;&lt;/li&gt;
 		
 		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/ray-bradbury-on-living-and-dying-well/&#34;&gt;The Real Happiness Machine. Ray Bradbury on living and dying well&lt;/a&gt;&lt;/li&gt;
 		
+		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/hauskeller-the-new-companion/&#34;&gt;The New Companion. A short story&lt;/a&gt;&lt;/li&gt;
+		
 		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/hauskeller-technological-unemployment/&#34;&gt;Should We Fear Technological Unemployment? &lt;/a&gt;&lt;/li&gt;
-		
-		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/hauskeller-nothing-matters/&#34;&gt;Nothing Matters. Or Does It? &lt;/a&gt;&lt;/li&gt;
-		
-		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/viktor-frankl-happiness-meaning/&#34;&gt;Happy in a Concentration Camp? It&amp;#39;s possible, says Viktor E. Frankl&lt;/a&gt;&lt;/li&gt;
 		
 		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/hauskeller-ballad-of-marie-and-elsie/&#34;&gt;The Ballad of Marie and Elsie. &lt;/a&gt;&lt;/li&gt;
 		
 		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/hauskeller-mother-knows-best/&#34;&gt;Mother Knows Best. A short story&lt;/a&gt;&lt;/li&gt;
+		
+		&lt;li&gt;&lt;a href=&#34;https://daily-philosophy.com/viktor-frankl-happiness-meaning/&#34;&gt;Happy in a Concentration Camp? It&amp;#39;s possible, says Viktor E. Frankl&lt;/a&gt;&lt;/li&gt;
 		
 	    &lt;/ul&gt;
 	  
@@ -6280,7 +6352,7 @@ Even with my broken Latin, I can tell that “Cantat Ergo Sumus” is not the sa
 
 &lt;p&gt;Thanks!&lt;/p&gt;
 &lt;div class=&#34;commentprompt&#34;&gt;
-    Be part of the …&lt;/div&gt;</description>
+    Do you have …&lt;/div&gt;</description>
 </item>
     
     <item>
