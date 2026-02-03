@@ -5,8 +5,15 @@
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   
   <url>
+    <loc>https://daily-philosophy.com/categories/ai-and-technology/</loc>
+    <lastmod>2026-02-03T07:25:27+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    
+  </url>
+  
+  <url>
     <loc>https://daily-philosophy.com/posts/</loc>
-    <lastmod>2026-01-25T19:35:51+08:00</lastmod>
+    <lastmod>2026-02-03T07:25:27+08:00</lastmod>
     <changefreq>daily</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -30,6 +37,165 @@
       <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/posts/" />
       <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/posts/" />
       <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/posts/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/bestof/</loc>
+    <lastmod>2026-02-03T07:25:27+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/bestof/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/bestof/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/bestof/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/bestof/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/bestof/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/</loc>
+    <lastmod>2026-02-03T07:25:27+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/guest-post/</loc>
+    <lastmod>2026-02-03T07:25:27+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/guest-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/guest-post/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/guest-post/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/guest-post/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/guest-post/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/zurkic-competence/</loc>
+    <lastmod>2026-02-03T07:25:27+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    
+      <image:image>
+	<image:loc>https://daily-philosophy.com/zurkic-competence/an-it-specialist-in-a-white-shirt-works-diligently-2026-01-08-00-47-45-utc.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/zurkic-competence/author.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/zurkic-competence/featured-1200px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/zurkic-competence/featured-1200px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/zurkic-competence/featured-500px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/zurkic-competence/featured-500px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/zurkic-competence/featured-800px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/zurkic-competence/featured-800px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/zurkic-competence/featured-thumbnail.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/zurkic-competence/featured-thumbnail.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/zurkic-competence/featured-top.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/zurkic-competence/featured.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/zurkic-competence/featured.webp</image:loc>
+      </image:image>
+      
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/modern-life/</loc>
+    <lastmod>2026-02-03T07:25:27+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/modern-life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/modern-life/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/modern-life/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/modern-life/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/modern-life/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/xmodern/</loc>
+    <lastmod>2026-02-03T07:25:27+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/xmodern/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/xmodern/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/xmodern/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/xmodern/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/xmodern/" />
   </url>
   
   <url>
@@ -100,46 +266,6 @@
   </url>
   
   <url>
-    <loc>https://daily-philosophy.com/categories/bestof/</loc>
-    <lastmod>2026-01-25T19:35:51+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/bestof/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/bestof/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/bestof/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/bestof/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/bestof/" />
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/</loc>
-    <lastmod>2026-01-25T19:35:51+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/" />
-  </url>
-  
-  <url>
     <loc>https://daily-philosophy.com/categories/ethics/</loc>
     <lastmod>2026-01-25T19:35:51+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -157,26 +283,6 @@
       <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/ethics/" />
       <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/ethics/" />
       <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/ethics/" />
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/guest-post/</loc>
-    <lastmod>2026-01-25T19:35:51+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/guest-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/guest-post/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/guest-post/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/guest-post/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/guest-post/" />
   </url>
   
   <url>
@@ -884,26 +990,6 @@
   </url>
   
   <url>
-    <loc>https://daily-philosophy.com/categories/xmodern/</loc>
-    <lastmod>2025-10-26T16:25:45+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/xmodern/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/xmodern/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/xmodern/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/xmodern/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/xmodern/" />
-  </url>
-  
-  <url>
     <loc>https://daily-philosophy.com/categories/biographies/</loc>
     <lastmod>2025-10-19T10:35:51+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -970,26 +1056,6 @@
     <lastmod>2025-10-19T10:35:51+08:00</lastmod>
     <changefreq>daily</changefreq>
     
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/modern-life/</loc>
-    <lastmod>2025-10-05T18:35:51+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/modern-life/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/modern-life/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/modern-life/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/modern-life/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/modern-life/" />
   </url>
   
   <url>
@@ -2458,13 +2524,6 @@
   <url>
     <loc>https://daily-philosophy.com/categories/xinspire/</loc>
     <lastmod>2025-04-12T11:55:45+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/ai-and-technology/</loc>
-    <lastmod>2025-04-05T13:05:27+08:00</lastmod>
     <changefreq>daily</changefreq>
     
   </url>
