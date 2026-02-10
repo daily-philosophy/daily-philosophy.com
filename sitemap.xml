@@ -5,15 +5,8 @@
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   
   <url>
-    <loc>https://daily-philosophy.com/categories/ai-and-technology/</loc>
-    <lastmod>2026-02-03T07:25:27+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    
-  </url>
-  
-  <url>
     <loc>https://daily-philosophy.com/posts/</loc>
-    <lastmod>2026-02-03T07:25:27+08:00</lastmod>
+    <lastmod>2026-02-10T07:25:27+08:00</lastmod>
     <changefreq>daily</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -40,6 +33,106 @@
   </url>
   
   <url>
+    <loc>https://daily-philosophy.com/categories/book-reviews/</loc>
+    <lastmod>2026-02-10T07:25:27+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/</loc>
+    <lastmod>2026-02-10T07:25:27+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/matthias-contemporary-metaphysics-review/</loc>
+    <lastmod>2026-02-10T07:25:27+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    
+      <image:image>
+	<image:loc>https://daily-philosophy.com/matthias-contemporary-metaphysics-review/cover.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/matthias-contemporary-metaphysics-review/cover.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/matthias-contemporary-metaphysics-review/featured-1200px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/matthias-contemporary-metaphysics-review/featured-1200px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/matthias-contemporary-metaphysics-review/featured-500px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/matthias-contemporary-metaphysics-review/featured-500px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/matthias-contemporary-metaphysics-review/featured-800px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/matthias-contemporary-metaphysics-review/featured-800px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/matthias-contemporary-metaphysics-review/featured-thumbnail.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/matthias-contemporary-metaphysics-review/featured-thumbnail.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/matthias-contemporary-metaphysics-review/featured-top.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/matthias-contemporary-metaphysics-review/featured.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/matthias-contemporary-metaphysics-review/featured.webp</image:loc>
+      </image:image>
+      
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/xbooks/</loc>
+    <lastmod>2026-02-10T07:25:27+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/ai-and-technology/</loc>
+    <lastmod>2026-02-03T07:25:27+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    
+  </url>
+  
+  <url>
     <loc>https://daily-philosophy.com/categories/bestof/</loc>
     <lastmod>2026-02-03T07:25:27+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -57,26 +150,6 @@
       <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/bestof/" />
       <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/bestof/" />
       <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/bestof/" />
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/</loc>
-    <lastmod>2026-02-03T07:25:27+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/" />
   </url>
   
   <url>
@@ -3603,13 +3676,6 @@
   </url>
   
   <url>
-    <loc>https://daily-philosophy.com/categories/book-reviews/</loc>
-    <lastmod>2024-09-20T12:01:45+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    
-  </url>
-  
-  <url>
     <loc>https://daily-philosophy.com/karakus-review-the-spinoza-problem/</loc>
     <lastmod>2024-09-20T12:01:45+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -3690,13 +3756,6 @@
 	<image:loc>https://daily-philosophy.com/karakus-review-the-spinoza-problem/mock-00684.png</image:loc>
       </image:image>
       
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/xbooks/</loc>
-    <lastmod>2024-09-20T12:01:45+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    
   </url>
   
   <url>
