@@ -606,6 +606,11 @@ hr {
 }
 
 
+.menufont {
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+
 .featuredmain {
     // Featured image on the homepage
 }
@@ -1324,17 +1329,20 @@ img.avatar {
 	left: 16px;
 	line-height: 0.8em;
 	max-width: 90%;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
 	color: #ffffff
     }
 
     .gallery-title-title {
 	line-height: 120%;
 	padding-top: 10px;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
 	padding-bottom: 10px;
     }
     
     .gallery-title-smaller {
 	position: relative;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
 	font-size: 1.5rem;
 	bottom: 110px;
 	left: 16px;
@@ -1344,6 +1352,7 @@ img.avatar {
     }
     
     .gallery-subtitle {
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
 	position: relative;
 	font-size: 1.4rem;
 	bottom: 95px;
@@ -1354,6 +1363,7 @@ img.avatar {
 
     .gallery-subtitle-smaller {
 	color: #c0c0c1;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
 	line-height: 100%;
     }
     
@@ -1363,6 +1373,7 @@ img.avatar {
     }
 
     .gallery-displayauthor {
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
 	font-size: 1.2rem;
 	line-height: 1.2rem;
 	color: #ffffff;
@@ -1370,6 +1381,7 @@ img.avatar {
     }
 
     .gallery-displayauthor2 {
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
 	color: #808081;
     }
 
