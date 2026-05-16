@@ -6,7 +6,7 @@
   
   <url>
     <loc>https://daily-philosophy.com/posts/</loc>
-    <lastmod>2026-05-10T20:15:27+08:00</lastmod>
+    <lastmod>2026-05-16T22:25:45+08:00</lastmod>
     <changefreq>daily</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -33,15 +33,28 @@
   </url>
   
   <url>
-    <loc>https://daily-philosophy.com/categories/book-reviews/</loc>
-    <lastmod>2026-05-10T20:15:27+08:00</lastmod>
+    <loc>https://daily-philosophy.com/categories/bestof/</loc>
+    <lastmod>2026-05-16T22:25:45+08:00</lastmod>
     <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/bestof/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/bestof/"
+                />
     
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/bestof/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/bestof/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/bestof/" />
   </url>
   
   <url>
     <loc>https://daily-philosophy.com/categories/</loc>
-    <lastmod>2026-05-10T20:15:27+08:00</lastmod>
+    <lastmod>2026-05-16T22:25:45+08:00</lastmod>
     <changefreq>daily</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -57,6 +70,128 @@
       <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/" />
       <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/" />
       <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/ethics/</loc>
+    <lastmod>2026-05-16T22:25:45+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/ethics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/ethics/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/ethics/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/ethics/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/ethics/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/guest-post/</loc>
+    <lastmod>2026-05-16T22:25:45+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/guest-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/guest-post/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/guest-post/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/guest-post/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/guest-post/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/modern-life/</loc>
+    <lastmod>2026-05-16T22:25:45+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/modern-life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/modern-life/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/modern-life/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/modern-life/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/modern-life/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/teksoy-after-the-hunt/</loc>
+    <lastmod>2026-05-16T22:25:45+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    
+      <image:image>
+	<image:loc>https://daily-philosophy.com/teksoy-after-the-hunt/author.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/teksoy-after-the-hunt/featured-1200px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/teksoy-after-the-hunt/featured-1200px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/teksoy-after-the-hunt/featured-500px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/teksoy-after-the-hunt/featured-500px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/teksoy-after-the-hunt/featured-800px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/teksoy-after-the-hunt/featured-800px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/teksoy-after-the-hunt/featured-thumbnail.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/teksoy-after-the-hunt/featured-thumbnail.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/teksoy-after-the-hunt/featured-top.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/teksoy-after-the-hunt/featured.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/teksoy-after-the-hunt/featured.webp</image:loc>
+      </image:image>
+      
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/book-reviews/</loc>
+    <lastmod>2026-05-10T20:15:27+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    
   </url>
   
   <url>
@@ -143,86 +278,6 @@
     <lastmod>2026-05-10T20:15:27+08:00</lastmod>
     <changefreq>daily</changefreq>
     
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/bestof/</loc>
-    <lastmod>2026-05-03T18:25:45+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/bestof/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/bestof/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/bestof/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/bestof/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/bestof/" />
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/ethics/</loc>
-    <lastmod>2026-05-03T18:25:45+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/ethics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/ethics/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/ethics/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/ethics/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/ethics/" />
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/guest-post/</loc>
-    <lastmod>2026-05-03T18:25:45+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/guest-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/guest-post/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/guest-post/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/guest-post/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/guest-post/" />
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/modern-life/</loc>
-    <lastmod>2026-05-03T18:25:45+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/modern-life/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/modern-life/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/modern-life/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/modern-life/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/modern-life/" />
   </url>
   
   <url>
@@ -23681,6 +23736,10 @@
       
       <image:image>
 	<image:loc>https://daily-philosophy.com/authors/david-cockayne.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/authors/efeteksoy.jpg</image:loc>
       </image:image>
       
       <image:image>
