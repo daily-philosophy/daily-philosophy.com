@@ -6,7 +6,7 @@
   
   <url>
     <loc>https://daily-philosophy.com/posts/</loc>
-    <lastmod>2026-05-16T22:25:45+08:00</lastmod>
+    <lastmod>2026-06-06T14:35:51+08:00</lastmod>
     <changefreq>daily</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -34,7 +34,7 @@
   
   <url>
     <loc>https://daily-philosophy.com/categories/bestof/</loc>
-    <lastmod>2026-05-16T22:25:45+08:00</lastmod>
+    <lastmod>2026-06-06T14:35:51+08:00</lastmod>
     <changefreq>daily</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://daily-philosophy.com/categories/</loc>
-    <lastmod>2026-05-16T22:25:45+08:00</lastmod>
+    <lastmod>2026-06-06T14:35:51+08:00</lastmod>
     <changefreq>daily</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -74,7 +74,7 @@
   
   <url>
     <loc>https://daily-philosophy.com/categories/ethics/</loc>
-    <lastmod>2026-05-16T22:25:45+08:00</lastmod>
+    <lastmod>2026-06-06T14:35:51+08:00</lastmod>
     <changefreq>daily</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -94,7 +94,7 @@
   
   <url>
     <loc>https://daily-philosophy.com/categories/guest-post/</loc>
-    <lastmod>2026-05-16T22:25:45+08:00</lastmod>
+    <lastmod>2026-06-06T14:35:51+08:00</lastmod>
     <changefreq>daily</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -114,7 +114,7 @@
   
   <url>
     <loc>https://daily-philosophy.com/categories/modern-life/</loc>
-    <lastmod>2026-05-16T22:25:45+08:00</lastmod>
+    <lastmod>2026-06-06T14:35:51+08:00</lastmod>
     <changefreq>daily</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -130,6 +130,81 @@
       <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/modern-life/" />
       <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/modern-life/" />
       <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/modern-life/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/nitoaia-animal-myths/</loc>
+    <lastmod>2026-06-06T14:35:51+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    
+      <image:image>
+	<image:loc>https://daily-philosophy.com/nitoaia-animal-myths/author.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/nitoaia-animal-myths/featured-1200px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/nitoaia-animal-myths/featured-1200px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/nitoaia-animal-myths/featured-500px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/nitoaia-animal-myths/featured-500px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/nitoaia-animal-myths/featured-800px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/nitoaia-animal-myths/featured-800px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/nitoaia-animal-myths/featured-thumbnail.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/nitoaia-animal-myths/featured-thumbnail.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/nitoaia-animal-myths/featured-top.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/nitoaia-animal-myths/featured.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/nitoaia-animal-myths/featured.webp</image:loc>
+      </image:image>
+      
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/xethics/</loc>
+    <lastmod>2026-06-06T14:35:51+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/xethics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/xethics/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/xethics/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/xethics/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/xethics/" />
   </url>
   
   <url>
@@ -591,26 +666,6 @@
 	<image:loc>https://daily-philosophy.com/zhou-illusion-experience/featured.webp</image:loc>
       </image:image>
       
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/xethics/</loc>
-    <lastmod>2026-04-05T12:35:51+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/xethics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/xethics/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/xethics/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/xethics/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/xethics/" />
   </url>
   
   <url>
