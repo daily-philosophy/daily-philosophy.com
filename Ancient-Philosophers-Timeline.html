@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ancient Greek Philosophers — An Interactive Timeline</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg1:#f4ecd8; --bg2:#e8dcc0; --ink:#2b2418; --ink-soft:#5b4f3a;
+    --line:#bda87f; --card:#fbf6e9; --gold:#9a7b32;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    font-family:'EB Garamond',Georgia,serif;
+    color:var(--ink);
+    background:
+      radial-gradient(1200px 600px at 20% -10%, #fffaf0 0%, transparent 60%),
+      linear-gradient(160deg,var(--bg1),var(--bg2));
+    min-height:100vh;
+  }
+  header.page{
+    text-align:center;
+    padding:34px 20px 10px;
+  }
+  header.page h1{
+    font-family:'Cormorant Garamond',serif;
+    font-weight:700;
+    font-size:clamp(28px,5vw,52px);
+    letter-spacing:.5px;
+    margin:0;
+    color:var(--ink);
+  }
+  header.page p.sub{
+    font-style:italic;
+    color:var(--ink-soft);
+    margin:6px 0 0;
+    font-size:clamp(15px,2.2vw,20px);
+  }
+  .hint{
+    text-align:center;color:var(--ink-soft);font-size:14px;margin:10px 0 4px;
+    opacity:.85;
+  }
+  .hint kbd{
+    font-family:inherit;background:#fff7e6;border:1px solid var(--line);
+    border-radius:5px;padding:1px 7px;margin:0 2px;font-size:13px;
+  }
+
+  /* Legend */
+  .legend{
+    display:flex;flex-wrap:wrap;justify-content:center;gap:6px 16px;
+    max-width:1000px;margin:8px auto 14px;padding:0 16px;
+  }
+  .legend span{display:inline-flex;align-items:center;gap:7px;font-size:14px;color:var(--ink-soft)}
+  .legend i{width:13px;height:13px;border-radius:50%;display:inline-block;flex:none}
+
+  /* Timeline */
+  .timeline{
+    overflow-x:auto;overflow-y:hidden;
+    padding:0 0 18px;
+    cursor:grab;
+    -webkit-overflow-scrolling:touch;
+    border-top:1px solid var(--line);
+    border-bottom:1px solid var(--line);
+    background:linear-gradient(180deg, rgba(255,255,255,.25), transparent 30%, transparent 70%, rgba(255,255,255,.25));
+  }
+  .timeline.grabbing{cursor:grabbing}
+  .track{position:relative}
+
+  .era-band{position:absolute;top:0;bottom:0;border-right:1px dashed rgba(120,100,60,.35)}
+  .era-label{
+    position:absolute;top:8px;transform:translateX(8px);
+    font-family:'Cormorant Garamond',serif;font-weight:600;
+    font-size:15px;letter-spacing:1.5px;text-transform:uppercase;
+    color:rgba(90,79,58,.55);pointer-events:none;white-space:nowrap;
+  }
+
+  .axis{position:absolute;left:0;height:3px;background:linear-gradient(90deg,var(--gold),#7a5f23);border-radius:2px}
+  .tick{position:absolute;width:1px;background:rgba(120,100,60,.3)}
+  .tick-label{
+    position:absolute;transform:translateX(-50%);
+    font-size:13px;color:var(--ink-soft);white-space:nowrap;
+    font-variant:small-caps;letter-spacing:.5px;
+  }
+  .axis-dot{
+    position:absolute;width:12px;height:12px;border-radius:50%;
+    transform:translate(-50%,-50%);border:2px solid #fff;
+    box-shadow:0 0 0 1px rgba(0,0,0,.15);z-index:3;
+  }
+  .connector{position:absolute;width:2px;opacity:.55;z-index:1}
+
+  .node{
+    position:absolute;width:120px;
+    display:flex;flex-direction:column;align-items:center;text-align:center;
+    background:none;border:none;cursor:pointer;padding:0;z-index:4;
+    font-family:inherit;color:var(--ink);
+    transition:transform .18s ease;
+  }
+  .node:hover{transform:translateY(-4px)}
+  .node .frame{
+    width:66px;height:66px;border-radius:50%;
+    padding:3px;background:var(--card);
+    box-shadow:0 4px 12px rgba(60,45,15,.28);
+    transition:box-shadow .18s ease, transform .18s ease;
+  }
+  .node:hover .frame{box-shadow:0 8px 20px rgba(60,45,15,.4)}
+  .node .frame img.portrait{
+    width:100%;height:100%;border-radius:50%;object-fit:cover;display:block;
+    background:#cdbd97;
+  }
+  .node .name{
+    margin-top:7px;font-weight:600;font-size:15px;line-height:1.05;
+    font-family:'Cormorant Garamond',serif;
+  }
+  .node .dts{font-size:11.5px;color:var(--ink-soft);margin-top:1px;font-variant:small-caps}
+
+  /* Modal */
+  .overlay{
+    position:fixed;inset:0;background:rgba(35,28,15,.55);
+    backdrop-filter:blur(3px);
+    display:none;align-items:center;justify-content:center;
+    padding:18px;z-index:100;
+  }
+  .overlay.open{display:flex}
+  .modal{
+    background:var(--card);
+    width:100%;max-width:620px;max-height:88vh;overflow:hidden;
+    border-radius:14px;
+    box-shadow:0 24px 60px rgba(30,22,8,.5);
+    display:flex;flex-direction:column;
+    border:1px solid var(--line);
+    animation:pop .22s ease;
+  }
+  @keyframes pop{from{opacity:0;transform:scale(.96) translateY(8px)}to{opacity:1;transform:none}}
+  .modal .top{
+    display:flex;gap:16px;align-items:center;
+    padding:20px 22px;border-bottom:1px solid var(--line);
+    position:relative;
+  }
+  .modal .top .frame{width:84px;height:84px;border-radius:50%;padding:3px;flex:none;background:#fff}
+  .modal .top img.portrait{width:100%;height:100%;border-radius:50%;object-fit:cover;background:#cdbd97;display:block}
+  .modal .top h2{
+    font-family:'Cormorant Garamond',serif;font-size:30px;margin:0;line-height:1;
+  }
+  .modal .top .dates{color:var(--ink-soft);font-variant:small-caps;font-size:16px;margin-top:3px}
+  .badge{
+    display:inline-block;margin-top:8px;font-size:12.5px;color:#fff;
+    padding:3px 11px;border-radius:999px;letter-spacing:.4px;
+  }
+  .close{
+    position:absolute;top:12px;right:14px;border:none;background:none;
+    font-size:26px;line-height:1;cursor:pointer;color:var(--ink-soft);
+    width:34px;height:34px;border-radius:50%;
+  }
+  .close:hover{background:rgba(0,0,0,.07);color:var(--ink)}
+
+  .modal .body{padding:18px 24px;overflow-y:auto}
+  .card-title{
+    font-family:'Cormorant Garamond',serif;font-size:21px;font-weight:600;
+    color:var(--gold);margin:0 0 6px;letter-spacing:.4px;
+  }
+  .modal .body h4{
+    font-family:'Cormorant Garamond',serif;font-size:17px;margin:14px 0 4px;
+    color:var(--ink);border-bottom:1px solid rgba(189,168,127,.5);padding-bottom:2px;
+  }
+  .modal .body ul{margin:4px 0 0;padding-left:20px}
+  .modal .body li{margin:5px 0;line-height:1.45;font-size:16.5px}
+  .modal .body em{color:#6b5a35}
+
+  .nav{
+    display:flex;align-items:center;justify-content:space-between;gap:10px;
+    padding:12px 22px 18px;border-top:1px solid var(--line);
+  }
+  .nav button{
+    font-family:inherit;font-size:15px;cursor:pointer;
+    border:1px solid var(--line);background:#fff;color:var(--ink);
+    padding:7px 14px;border-radius:8px;display:inline-flex;align-items:center;gap:6px;
+    transition:background .15s;
+  }
+  .nav button:hover:not(:disabled){background:#f3e9cf}
+  .nav button:disabled{opacity:.35;cursor:default}
+  .dots{display:flex;gap:7px}
+  .dots i{width:9px;height:9px;border-radius:50%;background:var(--line);transition:background .2s}
+  .dots i.on{background:var(--gold)}
+
+  .footer{text-align:center;padding:18px;color:var(--ink-soft);font-size:13.5px;font-style:italic}
+  ::-webkit-scrollbar{height:12px;width:10px}
+  ::-webkit-scrollbar-thumb{background:var(--line);border-radius:8px}
+  ::-webkit-scrollbar-track{background:rgba(0,0,0,.05)}
+</style>
+</head>
+<body>
+
+<header class="page">
+  <h1>Ancient Greek Philosophers</h1>
+  <p class="sub">A walk from the Milesian shore to the Stoic Porch</p>
+</header>
+<div class="hint">Click a portrait for details &nbsp;·&nbsp; drag or use <kbd>shift</kbd>+scroll to move along the years</div>
+
+<div class="legend" id="legend"></div>
+
+<div class="timeline" id="timeline">
+  <div class="track" id="track"></div>
+</div>
+
+<div class="footer">Portraits courtesy of Wikimedia Commons. Dates are conventional and approximate.</div>
+
+<!-- Modal -->
+<div class="overlay" id="overlay">
+  <div class="modal" role="dialog" aria-modal="true">
+    <div class="top">
+      <div class="frame"><img class="portrait" id="m-img" alt=""></div>
+      <div>
+        <h2 id="m-name"></h2>
+        <div class="dates" id="m-dates"></div>
+        <span class="badge" id="m-badge"></span>
+      </div>
+      <button class="close" id="closeBtn" aria-label="Close">&times;</button>
+    </div>
+    <div class="body" id="m-body"></div>
+    <div class="nav">
+      <button id="prevBtn">&larr; Prev</button>
+      <div class="dots" id="m-dots"></div>
+      <button id="nextBtn">Next &rarr;</button>
+    </div>
+  </div>
+</div>
+
+<script>
+/* ============================================================
+   DATA  — edit the `img` filename of any philosopher here if a
+   Wikimedia Commons image fails to load.
+   ============================================================ */
+const SCHOOLS = {
+  'Milesian School':'#0d9488',
+  'Pythagorean':'#7c3aed',
+  'Ephesian (independent)':'#ea580c',
+  'Eleatic School':'#2563eb',
+  'Pluralist':'#15803d',
+  'Atomist':'#475569',
+  'Classical Athens':'#db2777',
+  'Platonism / Academy':'#dc2626',
+  'Peripatetic / Lyceum':'#d97706',
+  'Epicurean':'#0891b2',
+  'Stoic':'#4f46e5'
+};
+
+const PH = [
+{ name:'Thales of Miletus', dates:'c. 624 – c. 546 BC', birthYear:-624, school:'Milesian School', img:'Thales.jpg',
+  cards:[{title:'Overview', html:`
+    <h4>School &amp; Works</h4><ul><li>Milesian School — Miletus, Ionia.</li><li>No writings survive; known through Aristotle and later doxographers.</li></ul>
+    <h4>Key Ideas</h4><ul>
+    <li>Traditionally the first Western philosopher; sought a single natural first principle (<em>archē</em>).</li>
+    <li>Held that <strong>water</strong> is the fundamental substance from which all things arise.</li>
+    <li>"All things are full of gods"; the earth floats upon water.</li>
+    <li>Reputedly predicted the solar eclipse of 585 BC and pioneered deductive geometry.</li></ul>`}]},
+
+{ name:'Anaximander', dates:'c. 610 – c. 546 BC', birthYear:-610, school:'Milesian School', img:'Anaximander.jpg',
+  cards:[{title:'Overview', html:`
+    <h4>School &amp; Works</h4><ul><li>Milesian School — associate of Thales.</li><li>Wrote <em>On Nature</em> (lost); credited with the first world map.</li></ul>
+    <h4>Key Ideas</h4><ul>
+    <li>The <em>archē</em> is the <strong>apeiron</strong> — the boundless, indefinite source of everything.</li>
+    <li>Worlds emerge from and return to it, "paying penalty for their injustice" — an early law of cosmic balance.</li>
+    <li>A mechanical, self-sustaining cosmos, with the earth unsupported at its centre.</li>
+    <li>A proto-evolutionary idea: humans developed from fish-like ancestors.</li></ul>`}]},
+
+{ name:'Anaximenes', dates:'c. 586 – c. 526 BC', birthYear:-586, school:'Milesian School', img:'Anaximenes of Miletus.jpg',
+  cards:[{title:'Overview', html:`
+    <h4>School &amp; Works</h4><ul><li>Milesian School — the last of the three Milesians.</li><li>Writings lost.</li></ul>
+    <h4>Key Ideas</h4><ul>
+    <li>The <em>archē</em> is <strong>air</strong> (<em>aēr</em>), source and substance of all things.</li>
+    <li>Through <strong>condensation and rarefaction</strong> air becomes fire, wind, cloud, water, earth and stone.</li>
+    <li>First to explain qualitative differences by a single quantitative mechanism.</li>
+    <li>The soul is air that holds living things together; the cosmos "breathes".</li></ul>`}]},
+
+{ name:'Pythagoras', dates:'c. 570 – c. 495 BC', birthYear:-570, school:'Pythagorean', img:'Kapitolinischer Pythagoras adjusted.jpg',
+  cards:[{title:'Overview', html:`
+    <h4>School &amp; Works</h4><ul><li>Founded the Pythagorean brotherhood at Croton, southern Italy.</li><li>No writings; teachings transmitted orally and kept secret.</li></ul>
+    <h4>Key Ideas</h4><ul>
+    <li>"All is <strong>number</strong>" — reality is ordered by mathematical ratio and proportion.</li>
+    <li>Discovered the numerical basis of musical harmony; the "harmony of the spheres".</li>
+    <li>Doctrine of <strong>metempsychosis</strong> — the transmigration of the immortal soul.</li>
+    <li>An ascetic religious–philosophical community with strict rules of life.</li></ul>`}]},
+
+{ name:'Heraclitus', dates:'c. 535 – c. 475 BC', birthYear:-535, school:'Ephesian (independent)', img:'Utrecht Moreelse Heraclite.JPG',
+  cards:[{title:'Overview', html:`
+    <h4>School &amp; Works</h4><ul><li>Independent thinker of Ephesus — "the Obscure", "the Weeping Philosopher".</li><li><em>On Nature</em> survives in fragments.</li></ul>
+    <h4>Key Ideas</h4><ul>
+    <li>Everything flows — <em>panta rhei</em>; "you cannot step into the same river twice".</li>
+    <li>Reality is ceaseless <strong>change</strong> governed by the <strong>Logos</strong>, a rational law.</li>
+    <li>Unity and strife of opposites; "war is the father of all".</li>
+    <li><strong>Fire</strong> is the basic element and emblem of the world's flux.</li></ul>`}]},
+
+{ name:'Parmenides', dates:'c. 515 – c. 450 BC', birthYear:-515, school:'Eleatic School', img:'Parmenides.jpg',
+  cards:[{title:'Overview', html:`
+    <h4>School &amp; Works</h4><ul><li>Founder of the Eleatic School at Elea, southern Italy.</li><li>Philosophical poem <em>On Nature</em> (fragments).</li></ul>
+    <h4>Key Ideas</h4><ul>
+    <li><strong>"What is, is; what is not, is not."</strong> Being is one, ungenerated, indestructible and unchanging.</li>
+    <li>Change, motion and plurality are illusions of the senses.</li>
+    <li>A sharp split between the <em>Way of Truth</em> (reason) and the <em>Way of Opinion</em> (appearance).</li>
+    <li>Founder of metaphysics and rigorous deductive argument.</li></ul>`}]},
+
+{ name:'Anaxagoras', dates:'c. 500 – c. 428 BC', birthYear:-500, school:'Pluralist', img:'Anaxagoras Lebiedzki Rahl.jpg',
+  cards:[{title:'Overview', html:`
+    <h4>School &amp; Works</h4><ul><li>Pluralist from Clazomenae; brought philosophy to Athens.</li><li><em>On Nature</em> (fragments).</li></ul>
+    <h4>Key Ideas</h4><ul>
+    <li>"Everything is in everything" — infinitely divisible <strong>seeds</strong> of all qualities.</li>
+    <li><strong>Nous</strong> (Mind) is the pure ordering principle that sets the cosmos spinning.</li>
+    <li>Claimed the sun is a fiery stone and the moon reflects its light — and was tried for impiety.</li></ul>`}]},
+
+{ name:'Empedocles', dates:'c. 494 – c. 434 BC', birthYear:-494, school:'Pluralist', img:'Empedocles in Thomas Stanley History of Philosophy.jpg',
+  cards:[{title:'Overview', html:`
+    <h4>School &amp; Works</h4><ul><li>Pluralist of Acragas, Sicily; poet, healer and statesman.</li><li>Poems <em>On Nature</em> and <em>Purifications</em> (fragments).</li></ul>
+    <h4>Key Ideas</h4><ul>
+    <li>Four "roots" — <strong>earth, water, air, fire</strong> — compose everything.</li>
+    <li>They mix and separate under two cosmic forces, <strong>Love</strong> and <strong>Strife</strong>.</li>
+    <li>Nothing truly comes to be or perishes — only mixture and separation.</li>
+    <li>An early account of biological evolution and a doctrine of reincarnation.</li></ul>`}]},
+
+{ name:'Zeno of Elea', dates:'c. 490 – c. 430 BC', birthYear:-490, school:'Eleatic School', img:'Zeno of Elea Tibaldi or Carducci Escorial.jpg',
+  cards:[{title:'Overview', html:`
+    <h4>School &amp; Works</h4><ul><li>Eleatic School — devoted pupil of Parmenides.</li><li>A book of paradoxes (lost; reported by Aristotle).</li></ul>
+    <h4>Key Ideas</h4><ul>
+    <li>Defended Parmenides with <strong>paradoxes</strong> against motion and plurality.</li>
+    <li>Achilles and the tortoise, the flying arrow, the dichotomy: motion leads to contradiction.</li>
+    <li>Pioneered <em>reductio ad absurdum</em>; Aristotle called him the inventor of <strong>dialectic</strong>.</li></ul>`}]},
+
+{ name:'Socrates', dates:'c. 470 – 399 BC', birthYear:-470, school:'Classical Athens', img:'Socrates Louvre.jpg',
+  cards:[{title:'Overview', html:`
+    <h4>School &amp; Works</h4><ul><li>Athens — turned philosophy from nature toward ethics.</li><li>Wrote nothing; known through Plato and Xenophon.</li></ul>
+    <h4>Key Ideas</h4><ul>
+    <li>The <strong>Socratic method</strong> (<em>elenchus</em>): testing beliefs by question and refutation.</li>
+    <li>"The unexamined life is not worth living"; "I know that I know nothing."</li>
+    <li>Virtue is knowledge; no one does wrong willingly.</li>
+    <li>Tried and executed by Athens in 399 BC for impiety and corrupting the youth.</li></ul>`}]},
+
+{ name:'Democritus', dates:'c. 460 – c. 370 BC', birthYear:-460, school:'Atomist', img:'Hendrick ter Brugghen - Democritus.jpg',
+  cards:[{title:'Overview', html:`
+    <h4>School &amp; Works</h4><ul><li>Atomist of Abdera; developed the system with his teacher Leucippus.</li><li>A prolific author (works lost); the "Laughing Philosopher".</li></ul>
+    <h4>Key Ideas</h4><ul>
+    <li>Reality is <strong>atoms</strong> — indivisible particles — moving in the <strong>void</strong>.</li>
+    <li>All qualities arise from atoms' shape, arrangement and position.</li>
+    <li>Thoroughgoing <strong>materialism and determinism</strong>: nothing happens by chance.</li>
+    <li>An ethics of cheerfulness and measure (<em>euthymia</em>).</li></ul>`}]},
+
+{ name:'Plato', dates:'c. 428 – 348 BC', birthYear:-428, school:'Platonism / Academy', img:'Plato Silanion Musei Capitolini MC1377.jpg',
+  cards:[
+   {title:'Life &amp; Works', html:`
+    <h4>Life</h4><ul><li>Athenian aristocrat; pupil of Socrates and teacher of Aristotle.</li><li>Founded the <strong>Academy</strong> (c. 387 BC), the first organised school of philosophy.</li></ul>
+    <h4>Principal Works</h4><ul><li>Some 36 dialogues, including the <em>Apology</em>, <em>Phaedo</em>, <em>Symposium</em>, <em>Republic</em>, <em>Phaedrus</em>, <em>Timaeus</em>, <em>Theaetetus</em>, <em>Sophist</em> and <em>Laws</em>.</li><li>Wrote in dialogue form, usually with Socrates as the main speaker.</li></ul>`},
+   {title:'Metaphysics &amp; Knowledge', html:`
+    <h4>Theory of Forms</h4><ul><li>Beyond the changing sensible world lie eternal, perfect <strong>Forms</strong> (Ideas).</li><li>Sensible things are imperfect copies that "participate" in them; the <strong>Form of the Good</strong> is highest.</li></ul>
+    <h4>Knowledge of the Soul</h4><ul><li>Knowledge is <strong>recollection</strong> (<em>anamnesis</em>) of the Forms.</li><li>The <strong>Allegory of the Cave</strong> and the Divided Line chart the ascent from illusion to truth.</li><li>The soul is immortal and akin to the Forms.</li></ul>`},
+   {title:'Ethics &amp; Politics', html:`
+    <h4>The Soul</h4><ul><li>Three parts — <strong>reason, spirit and appetite</strong>; justice is their proper harmony.</li></ul>
+    <h4>The Just City</h4><ul><li>In the <em>Republic</em>, the ideal state mirrors the soul and is ruled by <strong>philosopher-kings</strong>.</li><li>Education turns the soul toward the Good; <em>eros</em> is an ascent toward absolute Beauty.</li></ul>`}
+  ]},
+
+{ name:'Aristotle', dates:'384 – 322 BC', birthYear:-384, school:'Peripatetic / Lyceum', img:'Aristotle Altemps Inv8575.jpg',
+  cards:[
+   {title:'Life &amp; Works', html:`
+    <h4>Life</h4><ul><li>Born at Stagira; studied twenty years in Plato's Academy; tutor to <strong>Alexander the Great</strong>.</li><li>Founded the <strong>Lyceum</strong>; his followers were the <em>Peripatetics</em>.</li></ul>
+    <h4>Principal Works</h4><ul><li>An encyclopaedic corpus: the <em>Organon</em>, <em>Physics</em>, <em>Metaphysics</em>, <em>Nicomachean Ethics</em>, <em>Politics</em>, <em>De Anima</em>, <em>Poetics</em> and the biological treatises.</li></ul>`},
+   {title:'Metaphysics &amp; Nature', html:`
+    <h4>Form, Matter, Cause</h4><ul><li>Rejected Plato's separate Forms: form and matter exist together in things (<strong>hylomorphism</strong>).</li><li>The <strong>four causes</strong> — material, formal, efficient and final — explain why anything is as it is.</li></ul>
+    <h4>Change &amp; God</h4><ul><li>Change is the move from <strong>potentiality to actuality</strong>.</li><li>Nature is goal-directed (<em>teleology</em>); all motion depends on an <strong>Unmoved Mover</strong>.</li></ul>`},
+   {title:'Logic, Ethics &amp; Politics', html:`
+    <h4>Logic</h4><ul><li>Founder of formal logic; the theory of the <strong>syllogism</strong>.</li></ul>
+    <h4>Ethics &amp; Politics</h4><ul><li>The goal of life is <strong>eudaimonia</strong> (flourishing), reached through virtue and reason.</li><li>Virtue is a <strong>mean</strong> between extremes, cultivated by habit.</li><li>"Man is by nature a <strong>political animal</strong>."</li></ul>`}
+  ]},
+
+{ name:'Epicurus', dates:'341 – 270 BC', birthYear:-341, school:'Epicurean', img:'Epikouros BM 1843.jpg',
+  cards:[{title:'Overview', html:`
+    <h4>School &amp; Works</h4><ul><li>Founded the <strong>Garden</strong> in Athens.</li><li>Letters to Herodotus, Pythocles and Menoeceus; the <em>Principal Doctrines</em>.</li></ul>
+    <h4>Key Ideas</h4><ul>
+    <li>Atomist physics with the <strong>swerve</strong> (<em>clinamen</em>), leaving room for free will.</li>
+    <li>The good is <strong>pleasure</strong>, understood as freedom from pain and tranquillity (<em>ataraxia</em>).</li>
+    <li>Reached through simple living, friendship and the removal of false fears.</li>
+    <li>"Death is nothing to us"; the gods exist but do not meddle in the world.</li></ul>`}]},
+
+{ name:'Zeno of Citium', dates:'c. 334 – c. 262 BC', birthYear:-334, school:'Stoic', img:'Zeno of Citium - Museo archeologico nazionale di Napoli.jpg',
+  cards:[{title:'Overview', html:`
+    <h4>School &amp; Works</h4><ul><li>Founder of <strong>Stoicism</strong>; taught in the <em>Stoa Poikile</em> (Painted Porch) in Athens.</li><li>Writings lost.</li></ul>
+    <h4>Key Ideas</h4><ul>
+    <li>Live <strong>in agreement with nature</strong> and reason (the <em>Logos</em>).</li>
+    <li><strong>Virtue is the only good</strong>; wealth, health and the rest are "indifferents".</li>
+    <li>The cosmos is rational, providential and determined by fate.</li>
+    <li>Divided philosophy into <strong>logic, physics and ethics</strong>.</li></ul>`}]},
+
+{ name:'Chrysippus', dates:'c. 279 – c. 206 BC', birthYear:-279, school:'Stoic', img:'Chrysippos BM 1846.jpg',
+  cards:[{title:'Overview', html:`
+    <h4>School &amp; Works</h4><ul><li>Third head of the Stoa; the "second founder" of Stoicism.</li><li>Said to have written over 700 books (lost).</li></ul>
+    <h4>Key Ideas</h4><ul>
+    <li>Systematised Stoic doctrine: "without Chrysippus there would be no Stoa".</li>
+    <li>A major innovator in <strong>propositional logic</strong>.</li>
+    <li>Worked out the Stoic theory of <strong>fate</strong> and a compatibilist account of responsibility.</li>
+    <li>Developed the doctrine of the passions and the cosmic cycle (<em>ekpyrosis</em>).</li></ul>`}]},
+
+{ name:'Epictetus', dates:'c. 50 – c. 135 AD', birthYear:50, school:'Stoic', img:'Epictetus.jpg',
+  cards:[{title:'Overview', html:`
+    <h4>School &amp; Works</h4><ul><li>Later Stoic; born a slave, later freed, taught at Nicopolis.</li><li>The <em>Discourses</em> and the <em>Enchiridion</em>, recorded by his pupil Arrian.</li></ul>
+    <h4>Key Ideas</h4><ul>
+    <li>The <strong>dichotomy of control</strong>: some things are up to us (our judgements and will), others are not.</li>
+    <li>Freedom and serenity come from desiring only what lies in our power.</li>
+    <li>Philosophy is a practical <strong>training</strong> for living, not mere theory.</li></ul>`}]},
+
+{ name:'Marcus Aurelius', dates:'121 – 180 AD', birthYear:121, school:'Stoic', img:'Marcus Aurelius Glyptothek Munich.jpg',
+  cards:[{title:'Overview', html:`
+    <h4>School &amp; Works</h4><ul><li>Roman emperor (r. 161–180) and Stoic.</li><li>The <em>Meditations</em> — private notes to himself.</li></ul>
+    <h4>Key Ideas</h4><ul>
+    <li>Adopt the <strong>cosmic perspective</strong>: all things change and pass away.</li>
+    <li>Accept fate (<em>amor fati</em>) and do one's <strong>duty</strong> to the common good.</li>
+    <li>Live according to reason and nature — here, and now.</li></ul>`}]}
+];
+
+/* ============================================================
+   LAYOUT CONSTANTS
+   ============================================================ */
+const MIN_YEAR=-635, MAX_YEAR=195, PX=4.4;
+const NODE_W=120, GAP=16, NODE_H=120, AXIS_GAP=44, LANE_SP=132;
+const totalWidth=(MAX_YEAR-MIN_YEAR)*PX;
+const xOf=y=>(y-MIN_YEAR)*PX;
+const colorOf=p=>SCHOOLS[p.school]||'#777';
+
+function initialsOf(name){
+  return name.split(/\s+/).filter(w=>!['of','the'].includes(w.toLowerCase()))
+    .map(w=>w[0]).join('').slice(0,2).toUpperCase();
+}
+function imgUrl(file){
+  return 'https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(file)+'?width=320';
+}
+function fallbackPortrait(initials,color){
+  const svg="<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'>"+
+    "<defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>"+
+    "<stop offset='0' stop-color='"+color+"'/><stop offset='1' stop-color='#2b2418'/>"+
+    "</linearGradient></defs>"+
+    "<rect width='160' height='160' fill='url(#g)'/>"+
+    "<text x='80' y='86' font-family='Georgia, serif' font-size='62' fill='rgba(255,255,255,.92)' "+
+    "text-anchor='middle' dominant-baseline='middle'>"+initials+"</text></svg>";
+  return 'data:image/svg+xml;charset=utf-8,'+encodeURIComponent(svg);
+}
+
+/* ============================================================
+   BUILD TIMELINE
+   ============================================================ */
+const track=document.getElementById('track');
+
+// lane assignment (greedy, left to right)
+const sorted=[...PH].sort((a,b)=>a.birthYear-b.birthYear);
+const laneRight=[];
+sorted.forEach(p=>{
+  const x=xOf(p.birthYear), left=x-NODE_W/2, right=x+NODE_W/2;
+  let lane=-1;
+  for(let i=0;i<laneRight.length;i++){ if(laneRight[i] <= left-GAP){lane=i;break;} }
+  if(lane<0){lane=laneRight.length;laneRight.push(0);}
+  laneRight[lane]=right;
+  p._lane=lane;
+});
+
+// vertical extents
+let maxUp=0,maxDown=0;
+sorted.forEach(p=>{
+  const ring=Math.floor(p._lane/2);
+  const off=AXIS_GAP+ring*LANE_SP, ext=off+NODE_H;
+  if(p._lane%2===0) maxUp=Math.max(maxUp,ext); else maxDown=Math.max(maxDown,ext);
+});
+const centerY=maxUp+24;
+const contentHeight=maxUp+maxDown+48;
+
+track.style.width=totalWidth+'px';
+track.style.height=contentHeight+'px';
+
+// era bands
+const ERAS=[
+  {label:'Archaic · Pre-Socratic',from:MIN_YEAR,to:-479,color:'rgba(13,148,136,.07)'},
+  {label:'Classical',from:-479,to:-322,color:'rgba(219,39,119,.07)'},
+  {label:'Hellenistic',from:-322,to:-30,color:'rgba(8,145,178,.07)'},
+  {label:'Roman Imperial',from:-30,to:MAX_YEAR,color:'rgba(79,70,229,.07)'}
+];
+ERAS.forEach(e=>{
+  const b=document.createElement('div');
+  b.className='era-band';
+  b.style.left=xOf(e.from)+'px';
+  b.style.width=(e.to-e.from)*PX+'px';
+  b.style.background=e.color;
+  track.appendChild(b);
+  const lab=document.createElement('div');
+  lab.className='era-label';
+  lab.style.left=xOf(e.from)+'px';
+  lab.textContent=e.label;
+  track.appendChild(lab);
+});
+
+// axis
+const axis=document.createElement('div');
+axis.className='axis';
+axis.style.top=centerY+'px';
+axis.style.width=totalWidth+'px';
+track.appendChild(axis);
+
+// century ticks
+const TICKS=[-600,-500,-400,-300,-200,-100,0,100];
+function fmtYear(y){ if(y<0) return Math.abs(y)+' BC'; if(y===0) return 'AD 1'; return 'AD '+y; }
+TICKS.forEach(y=>{
+  const x=xOf(y);
+  const t=document.createElement('div');
+  t.className='tick';
+  t.style.left=x+'px'; t.style.top='32px';
+  t.style.height=(contentHeight-32)+'px';
+  track.appendChild(t);
+  const l=document.createElement('div');
+  l.className='tick-label';
+  l.style.left=x+'px'; l.style.top=(centerY+10)+'px';
+  l.textContent=fmtYear(y);
+  track.appendChild(l);
+});
+
+// philosopher nodes
+sorted.forEach((p,idx)=>{
+  const x=xOf(p.birthYear);
+  const ring=Math.floor(p._lane/2);
+  const off=AXIS_GAP+ring*LANE_SP;
+  const up=(p._lane%2===0);
+  const col=colorOf(p);
+
+  // connector
+  const c=document.createElement('div');
+  c.className='connector';
+  c.style.left=(x-1)+'px';
+  c.style.background=col;
+  if(up){ c.style.top=(centerY-off)+'px'; c.style.height=off+'px'; }
+  else  { c.style.top=centerY+'px';       c.style.height=off+'px'; }
+  track.appendChild(c);
+
+  // axis dot
+  const d=document.createElement('div');
+  d.className='axis-dot';
+  d.style.left=x+'px'; d.style.top=centerY+'px';
+  d.style.background=col;
+  track.appendChild(d);
+
+  // node
+  const node=document.createElement('button');
+  node.className='node';
+  node.style.left=(x-NODE_W/2)+'px';
+  node.style.top=(up ? (centerY-off-NODE_H) : (centerY+off))+'px';
+  node.innerHTML=
+    '<span class="frame" style="box-shadow:0 4px 12px rgba(60,45,15,.28),0 0 0 2px '+col+'33">'+
+      '<img class="portrait" alt="'+p.name+'" data-init="'+initialsOf(p.name)+'" data-col="'+col+'">'+
+    '</span>'+
+    '<span class="name">'+p.name+'</span>'+
+    '<span class="dts">'+p.dates+'</span>';
+  const img=node.querySelector('img');
+  img.addEventListener('error',function(){ this.onerror=null; this.src=fallbackPortrait(this.dataset.init,this.dataset.col); });
+  img.src=imgUrl(p.img);
+  node.addEventListener('click',()=>openModal(p));
+  track.appendChild(node);
+});
+
+/* ============================================================
+   LEGEND
+   ============================================================ */
+const legend=document.getElementById('legend');
+Object.entries(SCHOOLS).forEach(([name,col])=>{
+  const s=document.createElement('span');
+  s.innerHTML='<i style="background:'+col+'"></i>'+name;
+  legend.appendChild(s);
+});
+
+/* ============================================================
+   SCROLL: wheel-to-horizontal + drag-to-pan
+   ============================================================ */
+const timeline=document.getElementById('timeline');
+timeline.addEventListener('wheel',e=>{
+  if(Math.abs(e.deltaY)>Math.abs(e.deltaX)){ timeline.scrollLeft+=e.deltaY; e.preventDefault(); }
+},{passive:false});
+let isDown=false,startX=0,scrollStart=0;
+timeline.addEventListener('mousedown',e=>{
+  if(e.target.closest('.node'))return;
+  isDown=true;timeline.classList.add('grabbing');
+  startX=e.pageX;scrollStart=timeline.scrollLeft;
+});
+window.addEventListener('mouseup',()=>{isDown=false;timeline.classList.remove('grabbing');});
+window.addEventListener('mousemove',e=>{ if(isDown) timeline.scrollLeft=scrollStart-(e.pageX-startX); });
+
+/* ============================================================
+   MODAL
+   ============================================================ */
+const overlay=document.getElementById('overlay');
+const mImg=document.getElementById('m-img');
+const mName=document.getElementById('m-name');
+const mDates=document.getElementById('m-dates');
+const mBadge=document.getElementById('m-badge');
+const mBody=document.getElementById('m-body');
+const mDots=document.getElementById('m-dots');
+const prevBtn=document.getElementById('prevBtn');
+const nextBtn=document.getElementById('nextBtn');
+let current=null,cardIdx=0;
+
+function openModal(p){
+  current=p;cardIdx=0;
+  const col=colorOf(p);
+  mImg.alt=p.name;
+  mImg.onerror=function(){ this.onerror=null; this.src=fallbackPortrait(initialsOf(p.name),col); };
+  mImg.src=imgUrl(p.img);
+  mName.textContent=p.name;
+  mDates.textContent=p.dates;
+  mBadge.textContent=p.school;
+  mBadge.style.background=col;
+  document.querySelector('.modal .top .frame').style.boxShadow='0 0 0 3px '+col+'55';
+  renderCard();
+  overlay.classList.add('open');
+}
+function renderCard(){
+  const cards=current.cards, c=cards[cardIdx];
+  mBody.innerHTML='<div class="card-title">'+c.title+'</div>'+c.html;
+  mBody.scrollTop=0;
+  // dots
+  mDots.innerHTML='';
+  if(cards.length>1){
+    cards.forEach((_,i)=>{ const d=document.createElement('i'); if(i===cardIdx)d.classList.add('on'); mDots.appendChild(d); });
+    prevBtn.style.visibility='visible'; nextBtn.style.visibility='visible';
+    prevBtn.disabled=cardIdx===0; nextBtn.disabled=cardIdx===cards.length-1;
+  }else{
+    prevBtn.style.visibility='hidden'; nextBtn.style.visibility='hidden';
+  }
+}
+function closeModal(){ overlay.classList.remove('open'); current=null; }
+prevBtn.addEventListener('click',()=>{ if(cardIdx>0){cardIdx--;renderCard();} });
+nextBtn.addEventListener('click',()=>{ if(current&&cardIdx<current.cards.length-1){cardIdx++;renderCard();} });
+document.getElementById('closeBtn').addEventListener('click',closeModal);
+overlay.addEventListener('click',e=>{ if(e.target===overlay) closeModal(); });
+document.addEventListener('keydown',e=>{
+  if(!overlay.classList.contains('open'))return;
+  if(e.key==='Escape')closeModal();
+  else if(e.key==='ArrowRight'&&current&&cardIdx<current.cards.length-1){cardIdx++;renderCard();}
+  else if(e.key==='ArrowLeft'&&cardIdx>0){cardIdx--;renderCard();}
+});
+</script>
+</body>
+</html>
