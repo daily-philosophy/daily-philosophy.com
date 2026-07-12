@@ -5,8 +5,15 @@
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   
   <url>
+    <loc>https://daily-philosophy.com/categories/aesthetics/</loc>
+    <lastmod>2026-07-12T15:05:45+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    
+  </url>
+  
+  <url>
     <loc>https://daily-philosophy.com/posts/</loc>
-    <lastmod>2026-07-01T22:05:45+08:00</lastmod>
+    <lastmod>2026-07-12T15:05:45+08:00</lastmod>
     <changefreq>daily</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -33,15 +40,15 @@
   </url>
   
   <url>
-    <loc>https://daily-philosophy.com/categories/asian-philosophy/</loc>
-    <lastmod>2026-07-01T22:05:45+08:00</lastmod>
+    <loc>https://daily-philosophy.com/categories/art/</loc>
+    <lastmod>2026-07-12T15:05:45+08:00</lastmod>
     <changefreq>daily</changefreq>
     
   </url>
   
   <url>
     <loc>https://daily-philosophy.com/categories/bestof/</loc>
-    <lastmod>2026-07-01T22:05:45+08:00</lastmod>
+    <lastmod>2026-07-12T15:05:45+08:00</lastmod>
     <changefreq>daily</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -57,6 +64,128 @@
       <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/bestof/" />
       <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/bestof/" />
       <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/bestof/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/</loc>
+    <lastmod>2026-07-12T15:05:45+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/guest-post/</loc>
+    <lastmod>2026-07-12T15:05:45+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/guest-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/guest-post/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/guest-post/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/guest-post/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/guest-post/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/tuna-disturbed-perception/</loc>
+    <lastmod>2026-07-12T15:05:45+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    
+      <image:image>
+	<image:loc>https://daily-philosophy.com/tuna-disturbed-perception/author.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/tuna-disturbed-perception/featured-1200px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/tuna-disturbed-perception/featured-1200px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/tuna-disturbed-perception/featured-500px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/tuna-disturbed-perception/featured-500px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/tuna-disturbed-perception/featured-800px.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/tuna-disturbed-perception/featured-800px.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/tuna-disturbed-perception/featured-thumbnail.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/tuna-disturbed-perception/featured-thumbnail.webp</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/tuna-disturbed-perception/featured-top.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/tuna-disturbed-perception/featured.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/tuna-disturbed-perception/featured.webp</image:loc>
+      </image:image>
+      
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/xmodern/</loc>
+    <lastmod>2026-07-12T15:05:45+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://daily-philosophy.de/categories/xmodern/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://daily-philosophy.com/categories/xmodern/"
+                />
+    
+      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/xmodern/" />
+      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/xmodern/" />
+      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/xmodern/" />
+  </url>
+  
+  <url>
+    <loc>https://daily-philosophy.com/categories/asian-philosophy/</loc>
+    <lastmod>2026-07-01T22:05:45+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    
   </url>
   
   <url>
@@ -115,26 +244,6 @@
   </url>
   
   <url>
-    <loc>https://daily-philosophy.com/categories/</loc>
-    <lastmod>2026-07-01T22:05:45+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/" />
-  </url>
-  
-  <url>
     <loc>https://daily-philosophy.com/categories/classics/</loc>
     <lastmod>2026-07-01T22:05:45+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -155,26 +264,6 @@
   </url>
   
   <url>
-    <loc>https://daily-philosophy.com/categories/guest-post/</loc>
-    <lastmod>2026-07-01T22:05:45+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/guest-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/guest-post/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/guest-post/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/guest-post/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/guest-post/" />
-  </url>
-  
-  <url>
     <loc>https://daily-philosophy.com/categories/modern-life/</loc>
     <lastmod>2026-07-01T22:05:45+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -192,26 +281,6 @@
       <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/modern-life/" />
       <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/modern-life/" />
       <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/modern-life/" />
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/xmodern/</loc>
-    <lastmod>2026-07-01T22:05:45+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://daily-philosophy.de/categories/xmodern/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://daily-philosophy.com/categories/xmodern/"
-                />
-    
-      <link rel="alternate" hreflang="en" href="https://daily-philosophy.com/categories/xmodern/" />
-      <link rel="alternate" hreflang="de" href="https://daily-philosophy.de/categories/xmodern/" />
-      <link rel="alternate" hreflang="x-default" href="https://daily-philosophy.com/categories/xmodern/" />
   </url>
   
   <url>
@@ -818,61 +887,6 @@
     <lastmod>2026-04-13T15:25:45+08:00</lastmod>
     <changefreq>daily</changefreq>
     
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/zhou-illusion-experience/</loc>
-    <lastmod>2026-04-05T12:35:51+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    
-      <image:image>
-	<image:loc>https://daily-philosophy.com/zhou-illusion-experience/dailyphilosophy_Photograph_of_an_old_couple_sitting_on_a_sofa_fd1a3388-1f30-4d8c-b9ea-6f46455780f2_3.png</image:loc>
-      </image:image>
-      
-      <image:image>
-	<image:loc>https://daily-philosophy.com/zhou-illusion-experience/featured-1200px.jpg</image:loc>
-      </image:image>
-      
-      <image:image>
-	<image:loc>https://daily-philosophy.com/zhou-illusion-experience/featured-1200px.webp</image:loc>
-      </image:image>
-      
-      <image:image>
-	<image:loc>https://daily-philosophy.com/zhou-illusion-experience/featured-500px.jpg</image:loc>
-      </image:image>
-      
-      <image:image>
-	<image:loc>https://daily-philosophy.com/zhou-illusion-experience/featured-500px.webp</image:loc>
-      </image:image>
-      
-      <image:image>
-	<image:loc>https://daily-philosophy.com/zhou-illusion-experience/featured-800px.jpg</image:loc>
-      </image:image>
-      
-      <image:image>
-	<image:loc>https://daily-philosophy.com/zhou-illusion-experience/featured-800px.webp</image:loc>
-      </image:image>
-      
-      <image:image>
-	<image:loc>https://daily-philosophy.com/zhou-illusion-experience/featured-thumbnail.jpg</image:loc>
-      </image:image>
-      
-      <image:image>
-	<image:loc>https://daily-philosophy.com/zhou-illusion-experience/featured-thumbnail.webp</image:loc>
-      </image:image>
-      
-      <image:image>
-	<image:loc>https://daily-philosophy.com/zhou-illusion-experience/featured-top.jpg</image:loc>
-      </image:image>
-      
-      <image:image>
-	<image:loc>https://daily-philosophy.com/zhou-illusion-experience/featured.jpg</image:loc>
-      </image:image>
-      
-      <image:image>
-	<image:loc>https://daily-philosophy.com/zhou-illusion-experience/featured.webp</image:loc>
-      </image:image>
-      
   </url>
   
   <url>
@@ -3193,13 +3207,6 @@
   </url>
   
   <url>
-    <loc>https://daily-philosophy.com/categories/aesthetics/</loc>
-    <lastmod>2025-04-12T11:55:45+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    
-  </url>
-  
-  <url>
     <loc>https://daily-philosophy.com/categories/inspiration/</loc>
     <lastmod>2025-04-12T11:55:45+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -5469,13 +5476,6 @@
 	<image:loc>https://daily-philosophy.com/kidd-hanfeizi-pessimism/image2.webp</image:loc>
       </image:image>
       
-  </url>
-  
-  <url>
-    <loc>https://daily-philosophy.com/categories/art/</loc>
-    <lastmod>2024-05-15T14:13:10+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    
   </url>
   
   <url>
@@ -24057,6 +24057,10 @@
       
       <image:image>
 	<image:loc>https://daily-philosophy.com/authors/villena.jpg</image:loc>
+      </image:image>
+      
+      <image:image>
+	<image:loc>https://daily-philosophy.com/authors/vingelli.jpg</image:loc>
       </image:image>
       
       <image:image>
